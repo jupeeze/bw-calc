@@ -1,26 +1,42 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import * as React from 'react'
+import Chip from '@mui/material/Chip'
+import Autocomplete from '@mui/material/Autocomplete'
+import TextField from '@mui/material/TextField'
+import Stack from '@mui/material/Stack'
+import './App.css'
 
-function App() {
+export default function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div>
+        <h2>ダメージ計算ツールBW</h2>
+        <div className="Container">
+          <div className="Box">
+            <Autocomplete
+              id="combo-box"
+              options={pokemons}
+              renderInput={(params) => (
+                <TextField {...params} label="Attacker" />
+              )}
+            />
+          </div>
+          <div className="Box">
+            <Autocomplete
+              id="combo-box"
+              options={pokemons}
+              renderInput={(params) => (
+                <TextField {...params} label="Attacker" />
+              )}
+            />
+          </div>
+        </div>
+      </div>
     </div>
-  );
+  )
 }
 
-export default App;
+const pokemons = [
+  { label: 'ジャローダ' },
+  { label: 'エンブオー' },
+  { label: 'ダイケンキ' },
+]
