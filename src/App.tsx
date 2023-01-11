@@ -27,7 +27,9 @@ export default function App() {
                 <TextField {...params} label="Attacker" />
               )}
             />
-            <img src={atkImg} alt="" />
+            <div className='image-wrap'>
+              <img src={atkImg} />
+            </div>
           </div>
           <div className="Box">
             <Autocomplete
