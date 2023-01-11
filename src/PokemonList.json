@@ -1,0 +1,3896 @@
+{
+  "フシギダネ": {
+    "id": 1,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif",
+    "types": ["くさ", "どく"],
+    "stats": [45, 49, 49, 65, 65, 45]
+  },
+  "フシギソウ": {
+    "id": 2,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/2.gif",
+    "types": ["くさ", "どく"],
+    "stats": [60, 62, 63, 80, 80, 60]
+  },
+  "フシギバナ": {
+    "id": 3,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif",
+    "types": ["くさ", "どく"],
+    "stats": [80, 82, 83, 100, 100, 80]
+  },
+  "ヒトカゲ": {
+    "id": 4,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif",
+    "types": ["ほのお"],
+    "stats": [39, 52, 43, 60, 50, 65]
+  },
+  "リザード": {
+    "id": 5,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/5.gif",
+    "types": ["ほのお"],
+    "stats": [58, 64, 58, 80, 65, 80]
+  },
+  "リザードン": {
+    "id": 6,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif",
+    "types": ["ほのお", "ひこう"],
+    "stats": [78, 84, 78, 109, 85, 100]
+  },
+  "ゼニガメ": {
+    "id": 7,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif",
+    "types": ["みず"],
+    "stats": [44, 48, 65, 50, 64, 43]
+  },
+  "カメール": {
+    "id": 8,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/8.gif",
+    "types": ["みず"],
+    "stats": [59, 63, 80, 65, 80, 58]
+  },
+  "カメックス": {
+    "id": 9,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif",
+    "types": ["みず"],
+    "stats": [79, 83, 100, 85, 105, 78]
+  },
+  "キャタピー": {
+    "id": 10,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/10.gif",
+    "types": ["むし"],
+    "stats": [45, 30, 35, 20, 20, 45]
+  },
+  "トランセル": {
+    "id": 11,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/11.gif",
+    "types": ["むし"],
+    "stats": [50, 20, 55, 25, 25, 30]
+  },
+  "バタフリー": {
+    "id": 12,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/12.gif",
+    "types": ["むし", "ひこう"],
+    "stats": [60, 45, 50, 90, 80, 70]
+  },
+  "ビードル": {
+    "id": 13,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/13.gif",
+    "types": ["むし", "どく"],
+    "stats": [40, 35, 30, 20, 20, 50]
+  },
+  "コクーン": {
+    "id": 14,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/14.gif",
+    "types": ["むし", "どく"],
+    "stats": [45, 25, 50, 25, 25, 35]
+  },
+  "スピアー": {
+    "id": 15,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/15.gif",
+    "types": ["むし", "どく"],
+    "stats": [65, 90, 40, 45, 80, 75]
+  },
+  "ポッポ": {
+    "id": 16,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/16.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [40, 45, 40, 35, 35, 56]
+  },
+  "ピジョン": {
+    "id": 17,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/17.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [63, 60, 55, 50, 50, 71]
+  },
+  "ピジョット": {
+    "id": 18,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/18.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [83, 80, 75, 70, 70, 101]
+  },
+  "コラッタ": {
+    "id": 19,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/19.gif",
+    "types": ["ノーマル"],
+    "stats": [30, 56, 35, 25, 35, 72]
+  },
+  "ラッタ": {
+    "id": 20,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/20.gif",
+    "types": ["ノーマル"],
+    "stats": [55, 81, 60, 50, 70, 97]
+  },
+  "オニスズメ": {
+    "id": 21,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/21.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [40, 60, 30, 31, 31, 70]
+  },
+  "オニドリル": {
+    "id": 22,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/22.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [65, 90, 65, 61, 61, 100]
+  },
+  "アーボ": {
+    "id": 23,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/23.gif",
+    "types": ["どく"],
+    "stats": [35, 60, 44, 40, 54, 55]
+  },
+  "アーボック": {
+    "id": 24,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/24.gif",
+    "types": ["どく"],
+    "stats": [60, 95, 69, 65, 79, 80]
+  },
+  "ピカチュウ": {
+    "id": 25,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif",
+    "types": ["でんき"],
+    "stats": [35, 55, 40, 50, 50, 90]
+  },
+  "ライチュウ": {
+    "id": 26,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/26.gif",
+    "types": ["でんき"],
+    "stats": [60, 90, 55, 90, 80, 110]
+  },
+  "サンド": {
+    "id": 27,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/27.gif",
+    "types": ["じめん"],
+    "stats": [50, 75, 85, 20, 30, 40]
+  },
+  "サンドパン": {
+    "id": 28,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/28.gif",
+    "types": ["じめん"],
+    "stats": [75, 100, 110, 45, 55, 65]
+  },
+  "ニドラン♀": {
+    "id": 29,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/29.gif",
+    "types": ["どく"],
+    "stats": [55, 47, 52, 40, 40, 41]
+  },
+  "ニドリーナ": {
+    "id": 30,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/30.gif",
+    "types": ["どく"],
+    "stats": [70, 62, 67, 55, 55, 56]
+  },
+  "ニドクイン": {
+    "id": 31,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/31.gif",
+    "types": ["どく", "じめん"],
+    "stats": [90, 92, 87, 75, 85, 76]
+  },
+  "ニドラン♂": {
+    "id": 32,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/32.gif",
+    "types": ["どく"],
+    "stats": [46, 57, 40, 40, 40, 50]
+  },
+  "ニドリーノ": {
+    "id": 33,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/33.gif",
+    "types": ["どく"],
+    "stats": [61, 72, 57, 55, 55, 65]
+  },
+  "ニドキング": {
+    "id": 34,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/34.gif",
+    "types": ["どく", "じめん"],
+    "stats": [81, 102, 77, 85, 75, 85]
+  },
+  "ピッピ": {
+    "id": 35,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/35.gif",
+    "types": ["フェアリー"],
+    "stats": [70, 45, 48, 60, 65, 35]
+  },
+  "ピクシー": {
+    "id": 36,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/36.gif",
+    "types": ["フェアリー"],
+    "stats": [95, 70, 73, 95, 90, 60]
+  },
+  "ロコン": {
+    "id": 37,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/37.gif",
+    "types": ["ほのお"],
+    "stats": [38, 41, 40, 50, 65, 65]
+  },
+  "キュウコン": {
+    "id": 38,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/38.gif",
+    "types": ["ほのお"],
+    "stats": [73, 76, 75, 81, 100, 100]
+  },
+  "プリン": {
+    "id": 39,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/39.gif",
+    "types": ["ノーマル", "フェアリー"],
+    "stats": [115, 45, 20, 45, 25, 20]
+  },
+  "プクリン": {
+    "id": 40,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/40.gif",
+    "types": ["ノーマル", "フェアリー"],
+    "stats": [140, 70, 45, 85, 50, 45]
+  },
+  "ズバット": {
+    "id": 41,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/41.gif",
+    "types": ["どく", "ひこう"],
+    "stats": [40, 45, 35, 30, 40, 55]
+  },
+  "ゴルバット": {
+    "id": 42,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/42.gif",
+    "types": ["どく", "ひこう"],
+    "stats": [75, 80, 70, 65, 75, 90]
+  },
+  "ナゾノクサ": {
+    "id": 43,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/43.gif",
+    "types": ["くさ", "どく"],
+    "stats": [45, 50, 55, 75, 65, 30]
+  },
+  "クサイハナ": {
+    "id": 44,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/44.gif",
+    "types": ["くさ", "どく"],
+    "stats": [60, 65, 70, 85, 75, 40]
+  },
+  "ラフレシア": {
+    "id": 45,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/45.gif",
+    "types": ["くさ", "どく"],
+    "stats": [75, 80, 85, 110, 90, 50]
+  },
+  "パラス": {
+    "id": 46,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/46.gif",
+    "types": ["むし", "くさ"],
+    "stats": [35, 70, 55, 45, 55, 25]
+  },
+  "パラセクト": {
+    "id": 47,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/47.gif",
+    "types": ["むし", "くさ"],
+    "stats": [60, 95, 80, 60, 80, 30]
+  },
+  "コンパン": {
+    "id": 48,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/48.gif",
+    "types": ["むし", "どく"],
+    "stats": [60, 55, 50, 40, 55, 45]
+  },
+  "モルフォン": {
+    "id": 49,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/49.gif",
+    "types": ["むし", "どく"],
+    "stats": [70, 65, 60, 90, 75, 90]
+  },
+  "ディグダ": {
+    "id": 50,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/50.gif",
+    "types": ["じめん"],
+    "stats": [10, 55, 25, 35, 45, 95]
+  },
+  "ダグトリオ": {
+    "id": 51,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/51.gif",
+    "types": ["じめん"],
+    "stats": [35, 100, 50, 50, 70, 120]
+  },
+  "ニャース": {
+    "id": 52,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/52.gif",
+    "types": ["ノーマル"],
+    "stats": [40, 45, 35, 40, 40, 90]
+  },
+  "ペルシアン": {
+    "id": 53,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/53.gif",
+    "types": ["ノーマル"],
+    "stats": [65, 70, 60, 65, 65, 115]
+  },
+  "コダック": {
+    "id": 54,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/54.gif",
+    "types": ["みず"],
+    "stats": [50, 52, 48, 65, 50, 55]
+  },
+  "ゴルダック": {
+    "id": 55,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/55.gif",
+    "types": ["みず"],
+    "stats": [80, 82, 78, 95, 80, 85]
+  },
+  "マンキー": {
+    "id": 56,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/56.gif",
+    "types": ["かくとう"],
+    "stats": [40, 80, 35, 35, 45, 70]
+  },
+  "オコリザル": {
+    "id": 57,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/57.gif",
+    "types": ["かくとう"],
+    "stats": [65, 105, 60, 60, 70, 95]
+  },
+  "ガーディ": {
+    "id": 58,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/58.gif",
+    "types": ["ほのお"],
+    "stats": [55, 70, 45, 70, 50, 60]
+  },
+  "ウインディ": {
+    "id": 59,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/59.gif",
+    "types": ["ほのお"],
+    "stats": [90, 110, 80, 100, 80, 95]
+  },
+  "ニョロモ": {
+    "id": 60,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/60.gif",
+    "types": ["みず"],
+    "stats": [40, 50, 40, 40, 40, 90]
+  },
+  "ニョロゾ": {
+    "id": 61,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/61.gif",
+    "types": ["みず"],
+    "stats": [65, 65, 65, 50, 50, 90]
+  },
+  "ニョロボン": {
+    "id": 62,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/62.gif",
+    "types": ["みず", "かくとう"],
+    "stats": [90, 95, 95, 70, 90, 70]
+  },
+  "ケーシィ": {
+    "id": 63,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/63.gif",
+    "types": ["エスパー"],
+    "stats": [25, 20, 15, 105, 55, 90]
+  },
+  "ユンゲラー": {
+    "id": 64,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/64.gif",
+    "types": ["エスパー"],
+    "stats": [40, 35, 30, 120, 70, 105]
+  },
+  "フーディン": {
+    "id": 65,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/65.gif",
+    "types": ["エスパー"],
+    "stats": [55, 50, 45, 135, 95, 120]
+  },
+  "ワンリキー": {
+    "id": 66,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/66.gif",
+    "types": ["かくとう"],
+    "stats": [70, 80, 50, 35, 35, 35]
+  },
+  "ゴーリキー": {
+    "id": 67,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/67.gif",
+    "types": ["かくとう"],
+    "stats": [80, 100, 70, 50, 60, 45]
+  },
+  "カイリキー": {
+    "id": 68,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/68.gif",
+    "types": ["かくとう"],
+    "stats": [90, 130, 80, 65, 85, 55]
+  },
+  "マダツボミ": {
+    "id": 69,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/69.gif",
+    "types": ["くさ", "どく"],
+    "stats": [50, 75, 35, 70, 30, 40]
+  },
+  "ウツドン": {
+    "id": 70,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/70.gif",
+    "types": ["くさ", "どく"],
+    "stats": [65, 90, 50, 85, 45, 55]
+  },
+  "ウツボット": {
+    "id": 71,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/71.gif",
+    "types": ["くさ", "どく"],
+    "stats": [80, 105, 65, 100, 70, 70]
+  },
+  "メノクラゲ": {
+    "id": 72,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/72.gif",
+    "types": ["みず", "どく"],
+    "stats": [40, 40, 35, 50, 100, 70]
+  },
+  "ドククラゲ": {
+    "id": 73,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/73.gif",
+    "types": ["みず", "どく"],
+    "stats": [80, 70, 65, 80, 120, 100]
+  },
+  "イシツブテ": {
+    "id": 74,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/74.gif",
+    "types": ["いわ", "じめん"],
+    "stats": [40, 80, 100, 30, 30, 20]
+  },
+  "ゴローン": {
+    "id": 75,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/75.gif",
+    "types": ["いわ", "じめん"],
+    "stats": [55, 95, 115, 45, 45, 35]
+  },
+  "ゴローニャ": {
+    "id": 76,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/76.gif",
+    "types": ["いわ", "じめん"],
+    "stats": [80, 120, 130, 55, 65, 45]
+  },
+  "ポニータ": {
+    "id": 77,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/77.gif",
+    "types": ["ほのお"],
+    "stats": [50, 85, 55, 65, 65, 90]
+  },
+  "ギャロップ": {
+    "id": 78,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/78.gif",
+    "types": ["ほのお"],
+    "stats": [65, 100, 70, 80, 80, 105]
+  },
+  "ヤドン": {
+    "id": 79,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/79.gif",
+    "types": ["みず", "エスパー"],
+    "stats": [90, 65, 65, 40, 40, 15]
+  },
+  "ヤドラン": {
+    "id": 80,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/80.gif",
+    "types": ["みず", "エスパー"],
+    "stats": [95, 75, 110, 100, 80, 30]
+  },
+  "コイル": {
+    "id": 81,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/81.gif",
+    "types": ["でんき", "はがね"],
+    "stats": [25, 35, 70, 95, 55, 45]
+  },
+  "レアコイル": {
+    "id": 82,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/82.gif",
+    "types": ["でんき", "はがね"],
+    "stats": [50, 60, 95, 120, 70, 70]
+  },
+  "カモネギ": {
+    "id": 83,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/83.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [52, 90, 55, 58, 62, 60]
+  },
+  "ドードー": {
+    "id": 84,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/84.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [35, 85, 45, 35, 35, 75]
+  },
+  "ドードリオ": {
+    "id": 85,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/85.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [60, 110, 70, 60, 60, 110]
+  },
+  "パウワウ": {
+    "id": 86,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/86.gif",
+    "types": ["みず"],
+    "stats": [65, 45, 55, 45, 70, 45]
+  },
+  "ジュゴン": {
+    "id": 87,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/87.gif",
+    "types": ["みず", "こおり"],
+    "stats": [90, 70, 80, 70, 95, 70]
+  },
+  "ベトベター": {
+    "id": 88,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/88.gif",
+    "types": ["どく"],
+    "stats": [80, 80, 50, 40, 50, 25]
+  },
+  "ベトベトン": {
+    "id": 89,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/89.gif",
+    "types": ["どく"],
+    "stats": [105, 105, 75, 65, 100, 50]
+  },
+  "シェルダー": {
+    "id": 90,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/90.gif",
+    "types": ["みず"],
+    "stats": [30, 65, 100, 45, 25, 40]
+  },
+  "パルシェン": {
+    "id": 91,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/91.gif",
+    "types": ["みず", "こおり"],
+    "stats": [50, 95, 180, 85, 45, 70]
+  },
+  "ゴース": {
+    "id": 92,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/92.gif",
+    "types": ["ゴースト", "どく"],
+    "stats": [30, 35, 30, 100, 35, 80]
+  },
+  "ゴースト": {
+    "id": 93,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/93.gif",
+    "types": ["ゴースト", "どく"],
+    "stats": [45, 50, 45, 115, 55, 95]
+  },
+  "ゲンガー": {
+    "id": 94,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif",
+    "types": ["ゴースト", "どく"],
+    "stats": [60, 65, 60, 130, 75, 110]
+  },
+  "イワーク": {
+    "id": 95,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/95.gif",
+    "types": ["いわ", "じめん"],
+    "stats": [35, 45, 160, 30, 45, 70]
+  },
+  "スリープ": {
+    "id": 96,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/96.gif",
+    "types": ["エスパー"],
+    "stats": [60, 48, 45, 43, 90, 42]
+  },
+  "スリーパー": {
+    "id": 97,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/97.gif",
+    "types": ["エスパー"],
+    "stats": [85, 73, 70, 73, 115, 67]
+  },
+  "クラブ": {
+    "id": 98,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/98.gif",
+    "types": ["みず"],
+    "stats": [30, 105, 90, 25, 25, 50]
+  },
+  "キングラー": {
+    "id": 99,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/99.gif",
+    "types": ["みず"],
+    "stats": [55, 130, 115, 50, 50, 75]
+  },
+  "ビリリダマ": {
+    "id": 100,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/100.gif",
+    "types": ["でんき"],
+    "stats": [40, 30, 50, 55, 55, 100]
+  },
+  "マルマイン": {
+    "id": 101,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/101.gif",
+    "types": ["でんき"],
+    "stats": [60, 50, 70, 80, 80, 150]
+  },
+  "タマタマ": {
+    "id": 102,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/102.gif",
+    "types": ["くさ", "エスパー"],
+    "stats": [60, 40, 80, 60, 45, 40]
+  },
+  "ナッシー": {
+    "id": 103,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/103.gif",
+    "types": ["くさ", "エスパー"],
+    "stats": [95, 95, 85, 125, 75, 55]
+  },
+  "カラカラ": {
+    "id": 104,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/104.gif",
+    "types": ["じめん"],
+    "stats": [50, 50, 95, 40, 50, 35]
+  },
+  "ガラガラ": {
+    "id": 105,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/105.gif",
+    "types": ["じめん"],
+    "stats": [60, 80, 110, 50, 80, 45]
+  },
+  "サワムラー": {
+    "id": 106,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/106.gif",
+    "types": ["かくとう"],
+    "stats": [50, 120, 53, 35, 110, 87]
+  },
+  "エビワラー": {
+    "id": 107,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/107.gif",
+    "types": ["かくとう"],
+    "stats": [50, 105, 79, 35, 110, 76]
+  },
+  "ベロリンガ": {
+    "id": 108,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/108.gif",
+    "types": ["ノーマル"],
+    "stats": [90, 55, 75, 60, 75, 30]
+  },
+  "ドガース": {
+    "id": 109,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/109.gif",
+    "types": ["どく"],
+    "stats": [40, 65, 95, 60, 45, 35]
+  },
+  "マタドガス": {
+    "id": 110,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/110.gif",
+    "types": ["どく"],
+    "stats": [65, 90, 120, 85, 70, 60]
+  },
+  "サイホーン": {
+    "id": 111,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/111.gif",
+    "types": ["じめん", "いわ"],
+    "stats": [80, 85, 95, 30, 30, 25]
+  },
+  "サイドン": {
+    "id": 112,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/112.gif",
+    "types": ["じめん", "いわ"],
+    "stats": [105, 130, 120, 45, 45, 40]
+  },
+  "ラッキー": {
+    "id": 113,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/113.gif",
+    "types": ["ノーマル"],
+    "stats": [250, 5, 5, 35, 105, 50]
+  },
+  "モンジャラ": {
+    "id": 114,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/114.gif",
+    "types": ["くさ"],
+    "stats": [65, 55, 115, 100, 40, 60]
+  },
+  "ガルーラ": {
+    "id": 115,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/115.gif",
+    "types": ["ノーマル"],
+    "stats": [105, 95, 80, 40, 80, 90]
+  },
+  "タッツー": {
+    "id": 116,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/116.gif",
+    "types": ["みず"],
+    "stats": [30, 40, 70, 70, 25, 60]
+  },
+  "シードラ": {
+    "id": 117,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/117.gif",
+    "types": ["みず"],
+    "stats": [55, 65, 95, 95, 45, 85]
+  },
+  "トサキント": {
+    "id": 118,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/118.gif",
+    "types": ["みず"],
+    "stats": [45, 67, 60, 35, 50, 63]
+  },
+  "アズマオウ": {
+    "id": 119,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/119.gif",
+    "types": ["みず"],
+    "stats": [80, 92, 65, 65, 80, 68]
+  },
+  "ヒトデマン": {
+    "id": 120,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/120.gif",
+    "types": ["みず"],
+    "stats": [30, 45, 55, 70, 55, 85]
+  },
+  "スターミー": {
+    "id": 121,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/121.gif",
+    "types": ["みず", "エスパー"],
+    "stats": [60, 75, 85, 100, 85, 115]
+  },
+  "バリヤード": {
+    "id": 122,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/122.gif",
+    "types": ["エスパー", "フェアリー"],
+    "stats": [40, 45, 65, 100, 120, 90]
+  },
+  "ストライク": {
+    "id": 123,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/123.gif",
+    "types": ["むし", "ひこう"],
+    "stats": [70, 110, 80, 55, 80, 105]
+  },
+  "ルージュラ": {
+    "id": 124,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/124.gif",
+    "types": ["こおり", "エスパー"],
+    "stats": [65, 50, 35, 115, 95, 95]
+  },
+  "エレブー": {
+    "id": 125,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/125.gif",
+    "types": ["でんき"],
+    "stats": [65, 83, 57, 95, 85, 105]
+  },
+  "ブーバー": {
+    "id": 126,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/126.gif",
+    "types": ["ほのお"],
+    "stats": [65, 95, 57, 100, 85, 93]
+  },
+  "カイロス": {
+    "id": 127,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/127.gif",
+    "types": ["むし"],
+    "stats": [65, 125, 100, 55, 70, 85]
+  },
+  "ケンタロス": {
+    "id": 128,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/128.gif",
+    "types": ["ノーマル"],
+    "stats": [75, 100, 95, 40, 70, 110]
+  },
+  "コイキング": {
+    "id": 129,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/129.gif",
+    "types": ["みず"],
+    "stats": [20, 10, 55, 15, 20, 80]
+  },
+  "ギャラドス": {
+    "id": 130,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/130.gif",
+    "types": ["みず", "ひこう"],
+    "stats": [95, 125, 79, 60, 100, 81]
+  },
+  "ラプラス": {
+    "id": 131,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/131.gif",
+    "types": ["みず", "こおり"],
+    "stats": [130, 85, 80, 85, 95, 60]
+  },
+  "メタモン": {
+    "id": 132,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif",
+    "types": ["ノーマル"],
+    "stats": [48, 48, 48, 48, 48, 48]
+  },
+  "イーブイ": {
+    "id": 133,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif",
+    "types": ["ノーマル"],
+    "stats": [55, 55, 50, 45, 65, 55]
+  },
+  "シャワーズ": {
+    "id": 134,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/134.gif",
+    "types": ["みず"],
+    "stats": [130, 65, 60, 110, 95, 65]
+  },
+  "サンダース": {
+    "id": 135,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/135.gif",
+    "types": ["でんき"],
+    "stats": [65, 65, 60, 110, 95, 130]
+  },
+  "ブースター": {
+    "id": 136,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/136.gif",
+    "types": ["ほのお"],
+    "stats": [65, 130, 60, 95, 110, 65]
+  },
+  "ポリゴン": {
+    "id": 137,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/137.gif",
+    "types": ["ノーマル"],
+    "stats": [65, 60, 70, 85, 75, 40]
+  },
+  "オムナイト": {
+    "id": 138,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/138.gif",
+    "types": ["いわ", "みず"],
+    "stats": [35, 40, 100, 90, 55, 35]
+  },
+  "オムスター": {
+    "id": 139,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/139.gif",
+    "types": ["いわ", "みず"],
+    "stats": [70, 60, 125, 115, 70, 55]
+  },
+  "カブト": {
+    "id": 140,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/140.gif",
+    "types": ["いわ", "みず"],
+    "stats": [30, 80, 90, 55, 45, 55]
+  },
+  "カブトプス": {
+    "id": 141,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/141.gif",
+    "types": ["いわ", "みず"],
+    "stats": [60, 115, 105, 65, 70, 80]
+  },
+  "プテラ": {
+    "id": 142,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/142.gif",
+    "types": ["いわ", "ひこう"],
+    "stats": [80, 105, 65, 60, 75, 130]
+  },
+  "カビゴン": {
+    "id": 143,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif",
+    "types": ["ノーマル"],
+    "stats": [160, 110, 65, 65, 110, 30]
+  },
+  "フリーザー": {
+    "id": 144,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/144.gif",
+    "types": ["こおり", "ひこう"],
+    "stats": [90, 85, 100, 95, 125, 85]
+  },
+  "サンダー": {
+    "id": 145,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/145.gif",
+    "types": ["でんき", "ひこう"],
+    "stats": [90, 90, 85, 125, 90, 100]
+  },
+  "ファイヤー": {
+    "id": 146,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/146.gif",
+    "types": ["ほのお", "ひこう"],
+    "stats": [90, 100, 90, 125, 85, 90]
+  },
+  "ミニリュウ": {
+    "id": 147,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/147.gif",
+    "types": ["ドラゴン"],
+    "stats": [41, 64, 45, 50, 50, 50]
+  },
+  "ハクリュー": {
+    "id": 148,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/148.gif",
+    "types": ["ドラゴン"],
+    "stats": [61, 84, 65, 70, 70, 70]
+  },
+  "カイリュー": {
+    "id": 149,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif",
+    "types": ["ドラゴン", "ひこう"],
+    "stats": [91, 134, 95, 100, 100, 80]
+  },
+  "ミュウツー": {
+    "id": 150,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif",
+    "types": ["エスパー"],
+    "stats": [106, 110, 90, 154, 90, 130]
+  },
+  "ミュウ": {
+    "id": 151,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/151.gif",
+    "types": ["エスパー"],
+    "stats": [100, 100, 100, 100, 100, 100]
+  },
+  "チコリータ": {
+    "id": 152,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/152.gif",
+    "types": ["くさ"],
+    "stats": [45, 49, 65, 49, 65, 45]
+  },
+  "ベイリーフ": {
+    "id": 153,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/153.gif",
+    "types": ["くさ"],
+    "stats": [60, 62, 80, 63, 80, 60]
+  },
+  "メガニウム": {
+    "id": 154,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/154.gif",
+    "types": ["くさ"],
+    "stats": [80, 82, 100, 83, 100, 80]
+  },
+  "ヒノアラシ": {
+    "id": 155,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/155.gif",
+    "types": ["ほのお"],
+    "stats": [39, 52, 43, 60, 50, 65]
+  },
+  "マグマラシ": {
+    "id": 156,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/156.gif",
+    "types": ["ほのお"],
+    "stats": [58, 64, 58, 80, 65, 80]
+  },
+  "バクフーン": {
+    "id": 157,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/157.gif",
+    "types": ["ほのお"],
+    "stats": [78, 84, 78, 109, 85, 100]
+  },
+  "ワニノコ": {
+    "id": 158,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/158.gif",
+    "types": ["みず"],
+    "stats": [50, 65, 64, 44, 48, 43]
+  },
+  "アリゲイツ": {
+    "id": 159,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/159.gif",
+    "types": ["みず"],
+    "stats": [65, 80, 80, 59, 63, 58]
+  },
+  "オーダイル": {
+    "id": 160,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/160.gif",
+    "types": ["みず"],
+    "stats": [85, 105, 100, 79, 83, 78]
+  },
+  "オタチ": {
+    "id": 161,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/161.gif",
+    "types": ["ノーマル"],
+    "stats": [35, 46, 34, 35, 45, 20]
+  },
+  "オオタチ": {
+    "id": 162,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/162.gif",
+    "types": ["ノーマル"],
+    "stats": [85, 76, 64, 45, 55, 90]
+  },
+  "ホーホー": {
+    "id": 163,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/163.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [60, 30, 30, 36, 56, 50]
+  },
+  "ヨルノズク": {
+    "id": 164,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/164.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [100, 50, 50, 86, 96, 70]
+  },
+  "レディバ": {
+    "id": 165,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/165.gif",
+    "types": ["むし", "ひこう"],
+    "stats": [40, 20, 30, 40, 80, 55]
+  },
+  "レディアン": {
+    "id": 166,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/166.gif",
+    "types": ["むし", "ひこう"],
+    "stats": [55, 35, 50, 55, 110, 85]
+  },
+  "イトマル": {
+    "id": 167,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/167.gif",
+    "types": ["むし", "どく"],
+    "stats": [40, 60, 40, 40, 40, 30]
+  },
+  "アリアドス": {
+    "id": 168,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/168.gif",
+    "types": ["むし", "どく"],
+    "stats": [70, 90, 70, 60, 70, 40]
+  },
+  "クロバット": {
+    "id": 169,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/169.gif",
+    "types": ["どく", "ひこう"],
+    "stats": [85, 90, 80, 70, 80, 130]
+  },
+  "チョンチー": {
+    "id": 170,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/170.gif",
+    "types": ["みず", "でんき"],
+    "stats": [75, 38, 38, 56, 56, 67]
+  },
+  "ランターン": {
+    "id": 171,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/171.gif",
+    "types": ["みず", "でんき"],
+    "stats": [125, 58, 58, 76, 76, 67]
+  },
+  "ピチュー": {
+    "id": 172,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/172.gif",
+    "types": ["でんき"],
+    "stats": [20, 40, 15, 35, 35, 60]
+  },
+  "ピィ": {
+    "id": 173,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/173.gif",
+    "types": ["フェアリー"],
+    "stats": [50, 25, 28, 45, 55, 15]
+  },
+  "ププリン": {
+    "id": 174,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/174.gif",
+    "types": ["ノーマル", "フェアリー"],
+    "stats": [90, 30, 15, 40, 20, 15]
+  },
+  "トゲピー": {
+    "id": 175,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/175.gif",
+    "types": ["フェアリー"],
+    "stats": [35, 20, 65, 40, 65, 20]
+  },
+  "トゲチック": {
+    "id": 176,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/176.gif",
+    "types": ["フェアリー", "ひこう"],
+    "stats": [55, 40, 85, 80, 105, 40]
+  },
+  "ネイティ": {
+    "id": 177,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/177.gif",
+    "types": ["エスパー", "ひこう"],
+    "stats": [40, 50, 45, 70, 45, 70]
+  },
+  "ネイティオ": {
+    "id": 178,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/178.gif",
+    "types": ["エスパー", "ひこう"],
+    "stats": [65, 75, 70, 95, 70, 95]
+  },
+  "メリープ": {
+    "id": 179,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/179.gif",
+    "types": ["でんき"],
+    "stats": [55, 40, 40, 65, 45, 35]
+  },
+  "モココ": {
+    "id": 180,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/180.gif",
+    "types": ["でんき"],
+    "stats": [70, 55, 55, 80, 60, 45]
+  },
+  "デンリュウ": {
+    "id": 181,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/181.gif",
+    "types": ["でんき"],
+    "stats": [90, 75, 85, 115, 90, 55]
+  },
+  "キレイハナ": {
+    "id": 182,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/182.gif",
+    "types": ["くさ"],
+    "stats": [75, 80, 95, 90, 100, 50]
+  },
+  "マリル": {
+    "id": 183,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/183.gif",
+    "types": ["みず", "フェアリー"],
+    "stats": [70, 20, 50, 20, 50, 40]
+  },
+  "マリルリ": {
+    "id": 184,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/184.gif",
+    "types": ["みず", "フェアリー"],
+    "stats": [100, 50, 80, 60, 80, 50]
+  },
+  "ウソッキー": {
+    "id": 185,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/185.gif",
+    "types": ["いわ"],
+    "stats": [70, 100, 115, 30, 65, 30]
+  },
+  "ニョロトノ": {
+    "id": 186,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/186.gif",
+    "types": ["みず"],
+    "stats": [90, 75, 75, 90, 100, 70]
+  },
+  "ハネッコ": {
+    "id": 187,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/187.gif",
+    "types": ["くさ", "ひこう"],
+    "stats": [35, 35, 40, 35, 55, 50]
+  },
+  "ポポッコ": {
+    "id": 188,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/188.gif",
+    "types": ["くさ", "ひこう"],
+    "stats": [55, 45, 50, 45, 65, 80]
+  },
+  "ワタッコ": {
+    "id": 189,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/189.gif",
+    "types": ["くさ", "ひこう"],
+    "stats": [75, 55, 70, 55, 95, 110]
+  },
+  "エイパム": {
+    "id": 190,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/190.gif",
+    "types": ["ノーマル"],
+    "stats": [55, 70, 55, 40, 55, 85]
+  },
+  "ヒマナッツ": {
+    "id": 191,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/191.gif",
+    "types": ["くさ"],
+    "stats": [30, 30, 30, 30, 30, 30]
+  },
+  "キマワリ": {
+    "id": 192,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/192.gif",
+    "types": ["くさ"],
+    "stats": [75, 75, 55, 105, 85, 30]
+  },
+  "ヤンヤンマ": {
+    "id": 193,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/193.gif",
+    "types": ["むし", "ひこう"],
+    "stats": [65, 65, 45, 75, 45, 95]
+  },
+  "ウパー": {
+    "id": 194,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/194.gif",
+    "types": ["みず", "じめん"],
+    "stats": [55, 45, 45, 25, 25, 15]
+  },
+  "ヌオー": {
+    "id": 195,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/195.gif",
+    "types": ["みず", "じめん"],
+    "stats": [95, 85, 85, 65, 65, 35]
+  },
+  "エーフィ": {
+    "id": 196,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/196.gif",
+    "types": ["エスパー"],
+    "stats": [65, 65, 60, 130, 95, 110]
+  },
+  "ブラッキー": {
+    "id": 197,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/197.gif",
+    "types": ["あく"],
+    "stats": [95, 65, 110, 60, 130, 65]
+  },
+  "ヤミカラス": {
+    "id": 198,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/198.gif",
+    "types": ["あく", "ひこう"],
+    "stats": [60, 85, 42, 85, 42, 91]
+  },
+  "ヤドキング": {
+    "id": 199,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/199.gif",
+    "types": ["みず", "エスパー"],
+    "stats": [95, 75, 80, 100, 110, 30]
+  },
+  "ムウマ": {
+    "id": 200,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/200.gif",
+    "types": ["ゴースト"],
+    "stats": [60, 60, 60, 85, 85, 85]
+  },
+  "アンノーン": {
+    "id": 201,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/201.gif",
+    "types": ["エスパー"],
+    "stats": [48, 72, 48, 72, 48, 48]
+  },
+  "ソーナンス": {
+    "id": 202,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/202.gif",
+    "types": ["エスパー"],
+    "stats": [190, 33, 58, 33, 58, 33]
+  },
+  "キリンリキ": {
+    "id": 203,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/203.gif",
+    "types": ["ノーマル", "エスパー"],
+    "stats": [70, 80, 65, 90, 65, 85]
+  },
+  "クヌギダマ": {
+    "id": 204,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/204.gif",
+    "types": ["むし"],
+    "stats": [50, 65, 90, 35, 35, 15]
+  },
+  "フォレトス": {
+    "id": 205,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/205.gif",
+    "types": ["むし", "はがね"],
+    "stats": [75, 90, 140, 60, 60, 40]
+  },
+  "ノコッチ": {
+    "id": 206,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/206.gif",
+    "types": ["ノーマル"],
+    "stats": [100, 70, 70, 65, 65, 45]
+  },
+  "グライガー": {
+    "id": 207,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/207.gif",
+    "types": ["じめん", "ひこう"],
+    "stats": [65, 75, 105, 35, 65, 85]
+  },
+  "ハガネール": {
+    "id": 208,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/208.gif",
+    "types": ["はがね", "じめん"],
+    "stats": [75, 85, 200, 55, 65, 30]
+  },
+  "ブルー": {
+    "id": 209,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/209.gif",
+    "types": ["フェアリー"],
+    "stats": [60, 80, 50, 40, 40, 30]
+  },
+  "グランブル": {
+    "id": 210,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/210.gif",
+    "types": ["フェアリー"],
+    "stats": [90, 120, 75, 60, 60, 45]
+  },
+  "ハリーセン": {
+    "id": 211,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/211.gif",
+    "types": ["みず", "どく"],
+    "stats": [65, 95, 85, 55, 55, 85]
+  },
+  "ハッサム": {
+    "id": 212,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/212.gif",
+    "types": ["むし", "はがね"],
+    "stats": [70, 130, 100, 55, 80, 65]
+  },
+  "ツボツボ": {
+    "id": 213,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/213.gif",
+    "types": ["むし", "いわ"],
+    "stats": [20, 10, 230, 10, 230, 5]
+  },
+  "ヘラクロス": {
+    "id": 214,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/214.gif",
+    "types": ["むし", "かくとう"],
+    "stats": [80, 125, 75, 40, 95, 85]
+  },
+  "ニューラ": {
+    "id": 215,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/215.gif",
+    "types": ["あく", "こおり"],
+    "stats": [55, 95, 55, 35, 75, 115]
+  },
+  "ヒメグマ": {
+    "id": 216,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/216.gif",
+    "types": ["ノーマル"],
+    "stats": [60, 80, 50, 50, 50, 40]
+  },
+  "リングマ": {
+    "id": 217,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/217.gif",
+    "types": ["ノーマル"],
+    "stats": [90, 130, 75, 75, 75, 55]
+  },
+  "マグマッグ": {
+    "id": 218,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/218.gif",
+    "types": ["ほのお"],
+    "stats": [40, 40, 40, 70, 40, 20]
+  },
+  "マグカルゴ": {
+    "id": 219,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/219.gif",
+    "types": ["ほのお", "いわ"],
+    "stats": [60, 50, 120, 90, 80, 30]
+  },
+  "ウリムー": {
+    "id": 220,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/220.gif",
+    "types": ["こおり", "じめん"],
+    "stats": [50, 50, 40, 30, 30, 50]
+  },
+  "イノムー": {
+    "id": 221,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/221.gif",
+    "types": ["こおり", "じめん"],
+    "stats": [100, 100, 80, 60, 60, 50]
+  },
+  "サニーゴ": {
+    "id": 222,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/222.gif",
+    "types": ["みず", "いわ"],
+    "stats": [65, 55, 95, 65, 95, 35]
+  },
+  "テッポウオ": {
+    "id": 223,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/223.gif",
+    "types": ["みず"],
+    "stats": [35, 65, 35, 65, 35, 65]
+  },
+  "オクタン": {
+    "id": 224,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/224.gif",
+    "types": ["みず"],
+    "stats": [75, 105, 75, 105, 75, 45]
+  },
+  "デリバード": {
+    "id": 225,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/225.gif",
+    "types": ["こおり", "ひこう"],
+    "stats": [45, 55, 45, 65, 45, 75]
+  },
+  "マンタイン": {
+    "id": 226,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/226.gif",
+    "types": ["みず", "ひこう"],
+    "stats": [85, 40, 70, 80, 140, 70]
+  },
+  "エアームド": {
+    "id": 227,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/227.gif",
+    "types": ["はがね", "ひこう"],
+    "stats": [65, 80, 140, 40, 70, 70]
+  },
+  "デルビル": {
+    "id": 228,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/228.gif",
+    "types": ["あく", "ほのお"],
+    "stats": [45, 60, 30, 80, 50, 65]
+  },
+  "ヘルガー": {
+    "id": 229,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/229.gif",
+    "types": ["あく", "ほのお"],
+    "stats": [75, 90, 50, 110, 80, 95]
+  },
+  "キングドラ": {
+    "id": 230,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/230.gif",
+    "types": ["みず", "ドラゴン"],
+    "stats": [75, 95, 95, 95, 95, 85]
+  },
+  "ゴマゾウ": {
+    "id": 231,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/231.gif",
+    "types": ["じめん"],
+    "stats": [90, 60, 60, 40, 40, 40]
+  },
+  "ドンファン": {
+    "id": 232,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/232.gif",
+    "types": ["じめん"],
+    "stats": [90, 120, 120, 60, 60, 50]
+  },
+  "ポリゴン２": {
+    "id": 233,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/233.gif",
+    "types": ["ノーマル"],
+    "stats": [85, 80, 90, 105, 95, 60]
+  },
+  "オドシシ": {
+    "id": 234,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/234.gif",
+    "types": ["ノーマル"],
+    "stats": [73, 95, 62, 85, 65, 85]
+  },
+  "ドーブル": {
+    "id": 235,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/235.gif",
+    "types": ["ノーマル"],
+    "stats": [55, 20, 35, 20, 45, 75]
+  },
+  "バルキー": {
+    "id": 236,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/236.gif",
+    "types": ["かくとう"],
+    "stats": [35, 35, 35, 35, 35, 35]
+  },
+  "カポエラー": {
+    "id": 237,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/237.gif",
+    "types": ["かくとう"],
+    "stats": [50, 95, 95, 35, 110, 70]
+  },
+  "ムチュール": {
+    "id": 238,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/238.gif",
+    "types": ["こおり", "エスパー"],
+    "stats": [45, 30, 15, 85, 65, 65]
+  },
+  "エレキッド": {
+    "id": 239,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/239.gif",
+    "types": ["でんき"],
+    "stats": [45, 63, 37, 65, 55, 95]
+  },
+  "ブビィ": {
+    "id": 240,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/240.gif",
+    "types": ["ほのお"],
+    "stats": [45, 75, 37, 70, 55, 83]
+  },
+  "ミルタンク": {
+    "id": 241,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/241.gif",
+    "types": ["ノーマル"],
+    "stats": [95, 80, 105, 40, 70, 100]
+  },
+  "ハピナス": {
+    "id": 242,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/242.gif",
+    "types": ["ノーマル"],
+    "stats": [255, 10, 10, 75, 135, 55]
+  },
+  "ライコウ": {
+    "id": 243,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/243.gif",
+    "types": ["でんき"],
+    "stats": [90, 85, 75, 115, 100, 115]
+  },
+  "エンテイ": {
+    "id": 244,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/244.gif",
+    "types": ["ほのお"],
+    "stats": [115, 115, 85, 90, 75, 100]
+  },
+  "スイクン": {
+    "id": 245,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/245.gif",
+    "types": ["みず"],
+    "stats": [100, 75, 115, 90, 115, 85]
+  },
+  "ヨーギラス": {
+    "id": 246,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/246.gif",
+    "types": ["いわ", "じめん"],
+    "stats": [50, 64, 50, 45, 50, 41]
+  },
+  "サナギラス": {
+    "id": 247,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/247.gif",
+    "types": ["いわ", "じめん"],
+    "stats": [70, 84, 70, 65, 70, 51]
+  },
+  "バンギラス": {
+    "id": 248,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/248.gif",
+    "types": ["いわ", "あく"],
+    "stats": [100, 134, 110, 95, 100, 61]
+  },
+  "ルギア": {
+    "id": 249,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/249.gif",
+    "types": ["エスパー", "ひこう"],
+    "stats": [106, 90, 130, 90, 154, 110]
+  },
+  "ホウオウ": {
+    "id": 250,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/250.gif",
+    "types": ["ほのお", "ひこう"],
+    "stats": [106, 130, 90, 110, 154, 90]
+  },
+  "セレビィ": {
+    "id": 251,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/251.gif",
+    "types": ["エスパー", "くさ"],
+    "stats": [100, 100, 100, 100, 100, 100]
+  },
+  "キモリ": {
+    "id": 252,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif",
+    "types": ["くさ"],
+    "stats": [40, 45, 35, 65, 55, 70]
+  },
+  "ジュプトル": {
+    "id": 253,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/253.gif",
+    "types": ["くさ"],
+    "stats": [50, 65, 45, 85, 65, 95]
+  },
+  "ジュカイン": {
+    "id": 254,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/254.gif",
+    "types": ["くさ"],
+    "stats": [70, 85, 65, 105, 85, 120]
+  },
+  "アチャモ": {
+    "id": 255,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/255.gif",
+    "types": ["ほのお"],
+    "stats": [45, 60, 40, 70, 50, 45]
+  },
+  "ワカシャモ": {
+    "id": 256,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/256.gif",
+    "types": ["ほのお", "かくとう"],
+    "stats": [60, 85, 60, 85, 60, 55]
+  },
+  "バシャーモ": {
+    "id": 257,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif",
+    "types": ["ほのお", "かくとう"],
+    "stats": [80, 120, 70, 110, 70, 80]
+  },
+  "ミズゴロウ": {
+    "id": 258,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif",
+    "types": ["みず"],
+    "stats": [50, 70, 50, 50, 50, 40]
+  },
+  "ヌマクロー": {
+    "id": 259,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/259.gif",
+    "types": ["みず", "じめん"],
+    "stats": [70, 85, 70, 60, 70, 50]
+  },
+  "ラグラージ": {
+    "id": 260,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/260.gif",
+    "types": ["みず", "じめん"],
+    "stats": [100, 110, 90, 85, 90, 60]
+  },
+  "ポチエナ": {
+    "id": 261,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/261.gif",
+    "types": ["あく"],
+    "stats": [35, 55, 35, 30, 30, 35]
+  },
+  "グラエナ": {
+    "id": 262,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/262.gif",
+    "types": ["あく"],
+    "stats": [70, 90, 70, 60, 60, 70]
+  },
+  "ジグザグマ": {
+    "id": 263,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/263.gif",
+    "types": ["ノーマル"],
+    "stats": [38, 30, 41, 30, 41, 60]
+  },
+  "マッスグマ": {
+    "id": 264,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/264.gif",
+    "types": ["ノーマル"],
+    "stats": [78, 70, 61, 50, 61, 100]
+  },
+  "ケムッソ": {
+    "id": 265,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/265.gif",
+    "types": ["むし"],
+    "stats": [45, 45, 35, 20, 30, 20]
+  },
+  "カラサリス": {
+    "id": 266,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/266.gif",
+    "types": ["むし"],
+    "stats": [50, 35, 55, 25, 25, 15]
+  },
+  "アゲハント": {
+    "id": 267,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/267.gif",
+    "types": ["むし", "ひこう"],
+    "stats": [60, 70, 50, 100, 50, 65]
+  },
+  "マユルド": {
+    "id": 268,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/268.gif",
+    "types": ["むし"],
+    "stats": [50, 35, 55, 25, 25, 15]
+  },
+  "ドクケイル": {
+    "id": 269,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/269.gif",
+    "types": ["むし", "どく"],
+    "stats": [60, 50, 70, 50, 90, 65]
+  },
+  "ハスボー": {
+    "id": 270,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/270.gif",
+    "types": ["みず", "くさ"],
+    "stats": [40, 30, 30, 40, 50, 30]
+  },
+  "ハスブレロ": {
+    "id": 271,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/271.gif",
+    "types": ["みず", "くさ"],
+    "stats": [60, 50, 50, 60, 70, 50]
+  },
+  "ルンパッパ": {
+    "id": 272,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/272.gif",
+    "types": ["みず", "くさ"],
+    "stats": [80, 70, 70, 90, 100, 70]
+  },
+  "タネボー": {
+    "id": 273,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/273.gif",
+    "types": ["くさ"],
+    "stats": [40, 40, 50, 30, 30, 30]
+  },
+  "コノハナ": {
+    "id": 274,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/274.gif",
+    "types": ["くさ", "あく"],
+    "stats": [70, 70, 40, 60, 40, 60]
+  },
+  "ダーテング": {
+    "id": 275,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/275.gif",
+    "types": ["くさ", "あく"],
+    "stats": [90, 100, 60, 90, 60, 80]
+  },
+  "スバメ": {
+    "id": 276,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/276.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [40, 55, 30, 30, 30, 85]
+  },
+  "オオスバメ": {
+    "id": 277,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/277.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [60, 85, 60, 75, 50, 125]
+  },
+  "キャモメ": {
+    "id": 278,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/278.gif",
+    "types": ["みず", "ひこう"],
+    "stats": [40, 30, 30, 55, 30, 85]
+  },
+  "ペリッパー": {
+    "id": 279,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/279.gif",
+    "types": ["みず", "ひこう"],
+    "stats": [60, 50, 100, 95, 70, 65]
+  },
+  "ラルトス": {
+    "id": 280,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/280.gif",
+    "types": ["エスパー", "フェアリー"],
+    "stats": [28, 25, 25, 45, 35, 40]
+  },
+  "キルリア": {
+    "id": 281,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/281.gif",
+    "types": ["エスパー", "フェアリー"],
+    "stats": [38, 35, 35, 65, 55, 50]
+  },
+  "サーナイト": {
+    "id": 282,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/282.gif",
+    "types": ["エスパー", "フェアリー"],
+    "stats": [68, 65, 65, 125, 115, 80]
+  },
+  "アメタマ": {
+    "id": 283,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/283.gif",
+    "types": ["むし", "みず"],
+    "stats": [40, 30, 32, 50, 52, 65]
+  },
+  "アメモース": {
+    "id": 284,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/284.gif",
+    "types": ["むし", "ひこう"],
+    "stats": [70, 60, 62, 100, 82, 80]
+  },
+  "キノココ": {
+    "id": 285,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/285.gif",
+    "types": ["くさ"],
+    "stats": [60, 40, 60, 40, 60, 35]
+  },
+  "キノガッサ": {
+    "id": 286,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/286.gif",
+    "types": ["くさ", "かくとう"],
+    "stats": [60, 130, 80, 60, 60, 70]
+  },
+  "ナマケロ": {
+    "id": 287,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/287.gif",
+    "types": ["ノーマル"],
+    "stats": [60, 60, 60, 35, 35, 30]
+  },
+  "ヤルキモノ": {
+    "id": 288,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/288.gif",
+    "types": ["ノーマル"],
+    "stats": [80, 80, 80, 55, 55, 90]
+  },
+  "ケッキング": {
+    "id": 289,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/289.gif",
+    "types": ["ノーマル"],
+    "stats": [150, 160, 100, 95, 65, 100]
+  },
+  "ツチニン": {
+    "id": 290,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/290.gif",
+    "types": ["むし", "じめん"],
+    "stats": [31, 45, 90, 30, 30, 40]
+  },
+  "テッカニン": {
+    "id": 291,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/291.gif",
+    "types": ["むし", "ひこう"],
+    "stats": [61, 90, 45, 50, 50, 160]
+  },
+  "ヌケニン": {
+    "id": 292,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/292.gif",
+    "types": ["むし", "ゴースト"],
+    "stats": [1, 90, 45, 30, 30, 40]
+  },
+  "ゴニョニョ": {
+    "id": 293,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/293.gif",
+    "types": ["ノーマル"],
+    "stats": [64, 51, 23, 51, 23, 28]
+  },
+  "ドゴーム": {
+    "id": 294,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/294.gif",
+    "types": ["ノーマル"],
+    "stats": [84, 71, 43, 71, 43, 48]
+  },
+  "バクオング": {
+    "id": 295,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/295.gif",
+    "types": ["ノーマル"],
+    "stats": [104, 91, 63, 91, 73, 68]
+  },
+  "マクノシタ": {
+    "id": 296,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/296.gif",
+    "types": ["かくとう"],
+    "stats": [72, 60, 30, 20, 30, 25]
+  },
+  "ハリテヤマ": {
+    "id": 297,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/297.gif",
+    "types": ["かくとう"],
+    "stats": [144, 120, 60, 40, 60, 50]
+  },
+  "ルリリ": {
+    "id": 298,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/298.gif",
+    "types": ["ノーマル", "フェアリー"],
+    "stats": [50, 20, 40, 20, 40, 20]
+  },
+  "ノズパス": {
+    "id": 299,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/299.gif",
+    "types": ["いわ"],
+    "stats": [30, 45, 135, 45, 90, 30]
+  },
+  "エネコ": {
+    "id": 300,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/300.gif",
+    "types": ["ノーマル"],
+    "stats": [50, 45, 45, 35, 35, 50]
+  },
+  "エネコロロ": {
+    "id": 301,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/301.gif",
+    "types": ["ノーマル"],
+    "stats": [70, 65, 65, 55, 55, 90]
+  },
+  "ヤミラミ": {
+    "id": 302,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/302.gif",
+    "types": ["あく", "ゴースト"],
+    "stats": [50, 75, 75, 65, 65, 50]
+  },
+  "クチート": {
+    "id": 303,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/303.gif",
+    "types": ["はがね", "フェアリー"],
+    "stats": [50, 85, 85, 55, 55, 50]
+  },
+  "ココドラ": {
+    "id": 304,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/304.gif",
+    "types": ["はがね", "いわ"],
+    "stats": [50, 70, 100, 40, 40, 30]
+  },
+  "コドラ": {
+    "id": 305,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/305.gif",
+    "types": ["はがね", "いわ"],
+    "stats": [60, 90, 140, 50, 50, 40]
+  },
+  "ボスゴドラ": {
+    "id": 306,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/306.gif",
+    "types": ["はがね", "いわ"],
+    "stats": [70, 110, 180, 60, 60, 50]
+  },
+  "アサナン": {
+    "id": 307,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/307.gif",
+    "types": ["かくとう", "エスパー"],
+    "stats": [30, 40, 55, 40, 55, 60]
+  },
+  "チャーレム": {
+    "id": 308,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/308.gif",
+    "types": ["かくとう", "エスパー"],
+    "stats": [60, 60, 75, 60, 75, 80]
+  },
+  "ラクライ": {
+    "id": 309,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/309.gif",
+    "types": ["でんき"],
+    "stats": [40, 45, 40, 65, 40, 65]
+  },
+  "ライボルト": {
+    "id": 310,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/310.gif",
+    "types": ["でんき"],
+    "stats": [70, 75, 60, 105, 60, 105]
+  },
+  "プラスル": {
+    "id": 311,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/311.gif",
+    "types": ["でんき"],
+    "stats": [60, 50, 40, 85, 75, 95]
+  },
+  "マイナン": {
+    "id": 312,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/312.gif",
+    "types": ["でんき"],
+    "stats": [60, 40, 50, 75, 85, 95]
+  },
+  "バルビート": {
+    "id": 313,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/313.gif",
+    "types": ["むし"],
+    "stats": [65, 73, 75, 47, 85, 85]
+  },
+  "イルミーゼ": {
+    "id": 314,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/314.gif",
+    "types": ["むし"],
+    "stats": [65, 47, 75, 73, 85, 85]
+  },
+  "ロゼリア": {
+    "id": 315,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/315.gif",
+    "types": ["くさ", "どく"],
+    "stats": [50, 60, 45, 100, 80, 65]
+  },
+  "ゴクリン": {
+    "id": 316,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/316.gif",
+    "types": ["どく"],
+    "stats": [70, 43, 53, 43, 53, 40]
+  },
+  "マルノーム": {
+    "id": 317,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/317.gif",
+    "types": ["どく"],
+    "stats": [100, 73, 83, 73, 83, 55]
+  },
+  "キバニア": {
+    "id": 318,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/318.gif",
+    "types": ["みず", "あく"],
+    "stats": [45, 90, 20, 65, 20, 65]
+  },
+  "サメハダー": {
+    "id": 319,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/319.gif",
+    "types": ["みず", "あく"],
+    "stats": [70, 120, 40, 95, 40, 95]
+  },
+  "ホエルコ": {
+    "id": 320,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/320.gif",
+    "types": ["みず"],
+    "stats": [130, 70, 35, 70, 35, 60]
+  },
+  "ホエルオー": {
+    "id": 321,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/321.gif",
+    "types": ["みず"],
+    "stats": [170, 90, 45, 90, 45, 60]
+  },
+  "ドンメル": {
+    "id": 322,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/322.gif",
+    "types": ["ほのお", "じめん"],
+    "stats": [60, 60, 40, 65, 45, 35]
+  },
+  "バクーダ": {
+    "id": 323,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/323.gif",
+    "types": ["ほのお", "じめん"],
+    "stats": [70, 100, 70, 105, 75, 40]
+  },
+  "コータス": {
+    "id": 324,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/324.gif",
+    "types": ["ほのお"],
+    "stats": [70, 85, 140, 85, 70, 20]
+  },
+  "バネブー": {
+    "id": 325,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/325.gif",
+    "types": ["エスパー"],
+    "stats": [60, 25, 35, 70, 80, 60]
+  },
+  "ブーピッグ": {
+    "id": 326,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/326.gif",
+    "types": ["エスパー"],
+    "stats": [80, 45, 65, 90, 110, 80]
+  },
+  "パッチール": {
+    "id": 327,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/327.gif",
+    "types": ["ノーマル"],
+    "stats": [60, 60, 60, 60, 60, 60]
+  },
+  "ナックラー": {
+    "id": 328,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/328.gif",
+    "types": ["じめん"],
+    "stats": [45, 100, 45, 45, 45, 10]
+  },
+  "ビブラーバ": {
+    "id": 329,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/329.gif",
+    "types": ["じめん", "ドラゴン"],
+    "stats": [50, 70, 50, 50, 50, 70]
+  },
+  "フライゴン": {
+    "id": 330,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/330.gif",
+    "types": ["じめん", "ドラゴン"],
+    "stats": [80, 100, 80, 80, 80, 100]
+  },
+  "サボネア": {
+    "id": 331,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/331.gif",
+    "types": ["くさ"],
+    "stats": [50, 85, 40, 85, 40, 35]
+  },
+  "ノクタス": {
+    "id": 332,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/332.gif",
+    "types": ["くさ", "あく"],
+    "stats": [70, 115, 60, 115, 60, 55]
+  },
+  "チルット": {
+    "id": 333,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/333.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [45, 40, 60, 40, 75, 50]
+  },
+  "チルタリス": {
+    "id": 334,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/334.gif",
+    "types": ["ドラゴン", "ひこう"],
+    "stats": [75, 70, 90, 70, 105, 80]
+  },
+  "ザングース": {
+    "id": 335,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/335.gif",
+    "types": ["ノーマル"],
+    "stats": [73, 115, 60, 60, 60, 90]
+  },
+  "ハブネーク": {
+    "id": 336,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/336.gif",
+    "types": ["どく"],
+    "stats": [73, 100, 60, 100, 60, 65]
+  },
+  "ルナトーン": {
+    "id": 337,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/337.gif",
+    "types": ["いわ", "エスパー"],
+    "stats": [90, 55, 65, 95, 85, 70]
+  },
+  "ソルロック": {
+    "id": 338,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/338.gif",
+    "types": ["いわ", "エスパー"],
+    "stats": [90, 95, 85, 55, 65, 70]
+  },
+  "ドジョッチ": {
+    "id": 339,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/339.gif",
+    "types": ["みず", "じめん"],
+    "stats": [50, 48, 43, 46, 41, 60]
+  },
+  "ナマズン": {
+    "id": 340,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/340.gif",
+    "types": ["みず", "じめん"],
+    "stats": [110, 78, 73, 76, 71, 60]
+  },
+  "ヘイガニ": {
+    "id": 341,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/341.gif",
+    "types": ["みず"],
+    "stats": [43, 80, 65, 50, 35, 35]
+  },
+  "シザリガー": {
+    "id": 342,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/342.gif",
+    "types": ["みず", "あく"],
+    "stats": [63, 120, 85, 90, 55, 55]
+  },
+  "ヤジロン": {
+    "id": 343,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/343.gif",
+    "types": ["じめん", "エスパー"],
+    "stats": [40, 40, 55, 40, 70, 55]
+  },
+  "ネンドール": {
+    "id": 344,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/344.gif",
+    "types": ["じめん", "エスパー"],
+    "stats": [60, 70, 105, 70, 120, 75]
+  },
+  "リリーラ": {
+    "id": 345,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/345.gif",
+    "types": ["いわ", "くさ"],
+    "stats": [66, 41, 77, 61, 87, 23]
+  },
+  "ユレイドル": {
+    "id": 346,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/346.gif",
+    "types": ["いわ", "くさ"],
+    "stats": [86, 81, 97, 81, 107, 43]
+  },
+  "アノプス": {
+    "id": 347,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/347.gif",
+    "types": ["いわ", "むし"],
+    "stats": [45, 95, 50, 40, 50, 75]
+  },
+  "アーマルド": {
+    "id": 348,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/348.gif",
+    "types": ["いわ", "むし"],
+    "stats": [75, 125, 100, 70, 80, 45]
+  },
+  "ヒンバス": {
+    "id": 349,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/349.gif",
+    "types": ["みず"],
+    "stats": [20, 15, 20, 10, 55, 80]
+  },
+  "ミロカロス": {
+    "id": 350,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/350.gif",
+    "types": ["みず"],
+    "stats": [95, 60, 79, 100, 125, 81]
+  },
+  "ポワルン": {
+    "id": 351,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/351.gif",
+    "types": ["ノーマル"],
+    "stats": [70, 70, 70, 70, 70, 70]
+  },
+  "カクレオン": {
+    "id": 352,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/352.gif",
+    "types": ["ノーマル"],
+    "stats": [60, 90, 70, 60, 120, 40]
+  },
+  "カゲボウズ": {
+    "id": 353,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/353.gif",
+    "types": ["ゴースト"],
+    "stats": [44, 75, 35, 63, 33, 45]
+  },
+  "ジュペッタ": {
+    "id": 354,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/354.gif",
+    "types": ["ゴースト"],
+    "stats": [64, 115, 65, 83, 63, 65]
+  },
+  "ヨマワル": {
+    "id": 355,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/355.gif",
+    "types": ["ゴースト"],
+    "stats": [20, 40, 90, 30, 90, 25]
+  },
+  "サマヨール": {
+    "id": 356,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/356.gif",
+    "types": ["ゴースト"],
+    "stats": [40, 70, 130, 60, 130, 25]
+  },
+  "トロピウス": {
+    "id": 357,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/357.gif",
+    "types": ["くさ", "ひこう"],
+    "stats": [99, 68, 83, 72, 87, 51]
+  },
+  "チリーン": {
+    "id": 358,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/358.gif",
+    "types": ["エスパー"],
+    "stats": [75, 50, 80, 95, 90, 65]
+  },
+  "アブソル": {
+    "id": 359,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/359.gif",
+    "types": ["あく"],
+    "stats": [65, 130, 60, 75, 60, 75]
+  },
+  "ソーナノ": {
+    "id": 360,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/360.gif",
+    "types": ["エスパー"],
+    "stats": [95, 23, 48, 23, 48, 23]
+  },
+  "ユキワラシ": {
+    "id": 361,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/361.gif",
+    "types": ["こおり"],
+    "stats": [50, 50, 50, 50, 50, 50]
+  },
+  "オニゴーリ": {
+    "id": 362,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/362.gif",
+    "types": ["こおり"],
+    "stats": [80, 80, 80, 80, 80, 80]
+  },
+  "タマザラシ": {
+    "id": 363,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/363.gif",
+    "types": ["こおり", "みず"],
+    "stats": [70, 40, 50, 55, 50, 25]
+  },
+  "トドグラー": {
+    "id": 364,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/364.gif",
+    "types": ["こおり", "みず"],
+    "stats": [90, 60, 70, 75, 70, 45]
+  },
+  "トドゼルガ": {
+    "id": 365,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/365.gif",
+    "types": ["こおり", "みず"],
+    "stats": [110, 80, 90, 95, 90, 65]
+  },
+  "パールル": {
+    "id": 366,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/366.gif",
+    "types": ["みず"],
+    "stats": [35, 64, 85, 74, 55, 32]
+  },
+  "ハンテール": {
+    "id": 367,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/367.gif",
+    "types": ["みず"],
+    "stats": [55, 104, 105, 94, 75, 52]
+  },
+  "サクラビス": {
+    "id": 368,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/368.gif",
+    "types": ["みず"],
+    "stats": [55, 84, 105, 114, 75, 52]
+  },
+  "ジーランス": {
+    "id": 369,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/369.gif",
+    "types": ["みず", "いわ"],
+    "stats": [100, 90, 130, 45, 65, 55]
+  },
+  "ラブカス": {
+    "id": 370,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/370.gif",
+    "types": ["みず"],
+    "stats": [43, 30, 55, 40, 65, 97]
+  },
+  "タツベイ": {
+    "id": 371,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/371.gif",
+    "types": ["ドラゴン"],
+    "stats": [45, 75, 60, 40, 30, 50]
+  },
+  "コモルー": {
+    "id": 372,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/372.gif",
+    "types": ["ドラゴン"],
+    "stats": [65, 95, 100, 60, 50, 50]
+  },
+  "ボーマンダ": {
+    "id": 373,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/373.gif",
+    "types": ["ドラゴン", "ひこう"],
+    "stats": [95, 135, 80, 110, 80, 100]
+  },
+  "ダンバル": {
+    "id": 374,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/374.gif",
+    "types": ["はがね", "エスパー"],
+    "stats": [40, 55, 80, 35, 60, 30]
+  },
+  "メタング": {
+    "id": 375,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/375.gif",
+    "types": ["はがね", "エスパー"],
+    "stats": [60, 75, 100, 55, 80, 50]
+  },
+  "メタグロス": {
+    "id": 376,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/376.gif",
+    "types": ["はがね", "エスパー"],
+    "stats": [80, 135, 130, 95, 90, 70]
+  },
+  "レジロック": {
+    "id": 377,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/377.gif",
+    "types": ["いわ"],
+    "stats": [80, 100, 200, 50, 100, 50]
+  },
+  "レジアイス": {
+    "id": 378,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/378.gif",
+    "types": ["こおり"],
+    "stats": [80, 50, 100, 100, 200, 50]
+  },
+  "レジスチル": {
+    "id": 379,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/379.gif",
+    "types": ["はがね"],
+    "stats": [80, 75, 150, 75, 150, 50]
+  },
+  "ラティアス": {
+    "id": 380,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/380.gif",
+    "types": ["ドラゴン", "エスパー"],
+    "stats": [80, 80, 90, 110, 130, 110]
+  },
+  "ラティオス": {
+    "id": 381,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/381.gif",
+    "types": ["ドラゴン", "エスパー"],
+    "stats": [80, 90, 80, 130, 110, 110]
+  },
+  "カイオーガ": {
+    "id": 382,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/382.gif",
+    "types": ["みず"],
+    "stats": [100, 100, 90, 150, 140, 90]
+  },
+  "グラードン": {
+    "id": 383,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/383.gif",
+    "types": ["じめん"],
+    "stats": [100, 150, 140, 100, 90, 90]
+  },
+  "レックウザ": {
+    "id": 384,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/384.gif",
+    "types": ["ドラゴン", "ひこう"],
+    "stats": [105, 150, 90, 150, 90, 95]
+  },
+  "ジラーチ": {
+    "id": 385,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/385.gif",
+    "types": ["はがね", "エスパー"],
+    "stats": [100, 100, 100, 100, 100, 100]
+  },
+  "デオキシス": {
+    "id": 386,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/386.gif",
+    "types": ["エスパー"],
+    "stats": [50, 150, 50, 150, 50, 150]
+  },
+  "ナエトル": {
+    "id": 387,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/387.gif",
+    "types": ["くさ"],
+    "stats": [55, 68, 64, 45, 55, 31]
+  },
+  "ハヤシガメ": {
+    "id": 388,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/388.gif",
+    "types": ["くさ"],
+    "stats": [75, 89, 85, 55, 65, 36]
+  },
+  "ドダイトス": {
+    "id": 389,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/389.gif",
+    "types": ["くさ", "じめん"],
+    "stats": [95, 109, 105, 75, 85, 56]
+  },
+  "ヒコザル": {
+    "id": 390,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/390.gif",
+    "types": ["ほのお"],
+    "stats": [44, 58, 44, 58, 44, 61]
+  },
+  "モウカザル": {
+    "id": 391,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/391.gif",
+    "types": ["ほのお", "かくとう"],
+    "stats": [64, 78, 52, 78, 52, 81]
+  },
+  "ゴウカザル": {
+    "id": 392,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/392.gif",
+    "types": ["ほのお", "かくとう"],
+    "stats": [76, 104, 71, 104, 71, 108]
+  },
+  "ポッチャマ": {
+    "id": 393,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/393.gif",
+    "types": ["みず"],
+    "stats": [53, 51, 53, 61, 56, 40]
+  },
+  "ポッタイシ": {
+    "id": 394,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/394.gif",
+    "types": ["みず"],
+    "stats": [64, 66, 68, 81, 76, 50]
+  },
+  "エンペルト": {
+    "id": 395,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/395.gif",
+    "types": ["みず", "はがね"],
+    "stats": [84, 86, 88, 111, 101, 60]
+  },
+  "ムックル": {
+    "id": 396,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/396.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [40, 55, 30, 30, 30, 60]
+  },
+  "ムクバード": {
+    "id": 397,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/397.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [55, 75, 50, 40, 40, 80]
+  },
+  "ムクホーク": {
+    "id": 398,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/398.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [85, 120, 70, 50, 60, 100]
+  },
+  "ビッパ": {
+    "id": 399,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/399.gif",
+    "types": ["ノーマル"],
+    "stats": [59, 45, 40, 35, 40, 31]
+  },
+  "ビーダル": {
+    "id": 400,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/400.gif",
+    "types": ["ノーマル", "みず"],
+    "stats": [79, 85, 60, 55, 60, 71]
+  },
+  "コロボーシ": {
+    "id": 401,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/401.gif",
+    "types": ["むし"],
+    "stats": [37, 25, 41, 25, 41, 25]
+  },
+  "コロトック": {
+    "id": 402,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/402.gif",
+    "types": ["むし"],
+    "stats": [77, 85, 51, 55, 51, 65]
+  },
+  "コリンク": {
+    "id": 403,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/403.gif",
+    "types": ["でんき"],
+    "stats": [45, 65, 34, 40, 34, 45]
+  },
+  "ルクシオ": {
+    "id": 404,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/404.gif",
+    "types": ["でんき"],
+    "stats": [60, 85, 49, 60, 49, 60]
+  },
+  "レントラー": {
+    "id": 405,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/405.gif",
+    "types": ["でんき"],
+    "stats": [80, 120, 79, 95, 79, 70]
+  },
+  "スボミー": {
+    "id": 406,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/406.gif",
+    "types": ["くさ", "どく"],
+    "stats": [40, 30, 35, 50, 70, 55]
+  },
+  "ロズレイド": {
+    "id": 407,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/407.gif",
+    "types": ["くさ", "どく"],
+    "stats": [60, 70, 65, 125, 105, 90]
+  },
+  "ズガイドス": {
+    "id": 408,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/408.gif",
+    "types": ["いわ"],
+    "stats": [67, 125, 40, 30, 30, 58]
+  },
+  "ラムパルド": {
+    "id": 409,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/409.gif",
+    "types": ["いわ"],
+    "stats": [97, 165, 60, 65, 50, 58]
+  },
+  "タテトプス": {
+    "id": 410,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/410.gif",
+    "types": ["いわ", "はがね"],
+    "stats": [30, 42, 118, 42, 88, 30]
+  },
+  "トリデプス": {
+    "id": 411,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/411.gif",
+    "types": ["いわ", "はがね"],
+    "stats": [60, 52, 168, 47, 138, 30]
+  },
+  "ミノムッチ": {
+    "id": 412,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/412.gif",
+    "types": ["むし"],
+    "stats": [40, 29, 45, 29, 45, 36]
+  },
+  "ミノマダム": {
+    "id": 413,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/413.gif",
+    "types": ["むし", "くさ"],
+    "stats": [60, 59, 85, 79, 105, 36]
+  },
+  "ガーメイル": {
+    "id": 414,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/414.gif",
+    "types": ["むし", "ひこう"],
+    "stats": [70, 94, 50, 94, 50, 66]
+  },
+  "ミツハニー": {
+    "id": 415,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/415.gif",
+    "types": ["むし", "ひこう"],
+    "stats": [30, 30, 42, 30, 42, 70]
+  },
+  "ビークイン": {
+    "id": 416,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/416.gif",
+    "types": ["むし", "ひこう"],
+    "stats": [70, 80, 102, 80, 102, 40]
+  },
+  "パチリス": {
+    "id": 417,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/417.gif",
+    "types": ["でんき"],
+    "stats": [60, 45, 70, 45, 90, 95]
+  },
+  "ブイゼル": {
+    "id": 418,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/418.gif",
+    "types": ["みず"],
+    "stats": [55, 65, 35, 60, 30, 85]
+  },
+  "フローゼル": {
+    "id": 419,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/419.gif",
+    "types": ["みず"],
+    "stats": [85, 105, 55, 85, 50, 115]
+  },
+  "チェリンボ": {
+    "id": 420,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/420.gif",
+    "types": ["くさ"],
+    "stats": [45, 35, 45, 62, 53, 35]
+  },
+  "チェリム": {
+    "id": 421,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/421.gif",
+    "types": ["くさ"],
+    "stats": [70, 60, 70, 87, 78, 85]
+  },
+  "カラナクシ": {
+    "id": 422,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/422.gif",
+    "types": ["みず"],
+    "stats": [76, 48, 48, 57, 62, 34]
+  },
+  "トリトドン": {
+    "id": 423,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/423.gif",
+    "types": ["みず", "じめん"],
+    "stats": [111, 83, 68, 92, 82, 39]
+  },
+  "エテボース": {
+    "id": 424,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/424.gif",
+    "types": ["ノーマル"],
+    "stats": [75, 100, 66, 60, 66, 115]
+  },
+  "フワンテ": {
+    "id": 425,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/425.gif",
+    "types": ["ゴースト", "ひこう"],
+    "stats": [90, 50, 34, 60, 44, 70]
+  },
+  "フワライド": {
+    "id": 426,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/426.gif",
+    "types": ["ゴースト", "ひこう"],
+    "stats": [150, 80, 44, 90, 54, 80]
+  },
+  "ミミロル": {
+    "id": 427,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/427.gif",
+    "types": ["ノーマル"],
+    "stats": [55, 66, 44, 44, 56, 85]
+  },
+  "ミミロップ": {
+    "id": 428,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/428.gif",
+    "types": ["ノーマル"],
+    "stats": [65, 76, 84, 54, 96, 105]
+  },
+  "ムウマージ": {
+    "id": 429,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/429.gif",
+    "types": ["ゴースト"],
+    "stats": [60, 60, 60, 105, 105, 105]
+  },
+  "ドンカラス": {
+    "id": 430,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/430.gif",
+    "types": ["あく", "ひこう"],
+    "stats": [100, 125, 52, 105, 52, 71]
+  },
+  "ニャルマー": {
+    "id": 431,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/431.gif",
+    "types": ["ノーマル"],
+    "stats": [49, 55, 42, 42, 37, 85]
+  },
+  "ブニャット": {
+    "id": 432,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/432.gif",
+    "types": ["ノーマル"],
+    "stats": [71, 82, 64, 64, 59, 112]
+  },
+  "リーシャン": {
+    "id": 433,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/433.gif",
+    "types": ["エスパー"],
+    "stats": [45, 30, 50, 65, 50, 45]
+  },
+  "スカンプー": {
+    "id": 434,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/434.gif",
+    "types": ["どく", "あく"],
+    "stats": [63, 63, 47, 41, 41, 74]
+  },
+  "スカタンク": {
+    "id": 435,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/435.gif",
+    "types": ["どく", "あく"],
+    "stats": [103, 93, 67, 71, 61, 84]
+  },
+  "ドーミラー": {
+    "id": 436,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/436.gif",
+    "types": ["はがね", "エスパー"],
+    "stats": [57, 24, 86, 24, 86, 23]
+  },
+  "ドータクン": {
+    "id": 437,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/437.gif",
+    "types": ["はがね", "エスパー"],
+    "stats": [67, 89, 116, 79, 116, 33]
+  },
+  "ウソハチ": {
+    "id": 438,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/438.gif",
+    "types": ["いわ"],
+    "stats": [50, 80, 95, 10, 45, 10]
+  },
+  "マネネ": {
+    "id": 439,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/439.gif",
+    "types": ["エスパー", "フェアリー"],
+    "stats": [20, 25, 45, 70, 90, 60]
+  },
+  "ピンプク": {
+    "id": 440,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/440.gif",
+    "types": ["ノーマル"],
+    "stats": [100, 5, 5, 15, 65, 30]
+  },
+  "ペラップ": {
+    "id": 441,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/441.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [76, 65, 45, 92, 42, 91]
+  },
+  "ミカルゲ": {
+    "id": 442,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/442.gif",
+    "types": ["ゴースト", "あく"],
+    "stats": [50, 92, 108, 92, 108, 35]
+  },
+  "フカマル": {
+    "id": 443,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/443.gif",
+    "types": ["ドラゴン", "じめん"],
+    "stats": [58, 70, 45, 40, 45, 42]
+  },
+  "ガバイト": {
+    "id": 444,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/444.gif",
+    "types": ["ドラゴン", "じめん"],
+    "stats": [68, 90, 65, 50, 55, 82]
+  },
+  "ガブリアス": {
+    "id": 445,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/445.gif",
+    "types": ["ドラゴン", "じめん"],
+    "stats": [108, 130, 95, 80, 85, 102]
+  },
+  "ゴンベ": {
+    "id": 446,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/446.gif",
+    "types": ["ノーマル"],
+    "stats": [135, 85, 40, 40, 85, 5]
+  },
+  "リオル": {
+    "id": 447,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/447.gif",
+    "types": ["かくとう"],
+    "stats": [40, 70, 40, 35, 40, 60]
+  },
+  "ルカリオ": {
+    "id": 448,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif",
+    "types": ["かくとう", "はがね"],
+    "stats": [70, 110, 70, 115, 70, 90]
+  },
+  "ヒポポタス": {
+    "id": 449,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/449.gif",
+    "types": ["じめん"],
+    "stats": [68, 72, 78, 38, 42, 32]
+  },
+  "カバルドン": {
+    "id": 450,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/450.gif",
+    "types": ["じめん"],
+    "stats": [108, 112, 118, 68, 72, 47]
+  },
+  "スコルピ": {
+    "id": 451,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/451.gif",
+    "types": ["どく", "むし"],
+    "stats": [40, 50, 90, 30, 55, 65]
+  },
+  "ドラピオン": {
+    "id": 452,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/452.gif",
+    "types": ["どく", "あく"],
+    "stats": [70, 90, 110, 60, 75, 95]
+  },
+  "グレッグル": {
+    "id": 453,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/453.gif",
+    "types": ["どく", "かくとう"],
+    "stats": [48, 61, 40, 61, 40, 50]
+  },
+  "ドクロッグ": {
+    "id": 454,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/454.gif",
+    "types": ["どく", "かくとう"],
+    "stats": [83, 106, 65, 86, 65, 85]
+  },
+  "マスキッパ": {
+    "id": 455,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/455.gif",
+    "types": ["くさ"],
+    "stats": [74, 100, 72, 90, 72, 46]
+  },
+  "ケイコウオ": {
+    "id": 456,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/456.gif",
+    "types": ["みず"],
+    "stats": [49, 49, 56, 49, 61, 66]
+  },
+  "ネオラント": {
+    "id": 457,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/457.gif",
+    "types": ["みず"],
+    "stats": [69, 69, 76, 69, 86, 91]
+  },
+  "タマンタ": {
+    "id": 458,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/458.gif",
+    "types": ["みず", "ひこう"],
+    "stats": [45, 20, 50, 60, 120, 50]
+  },
+  "ユキカブリ": {
+    "id": 459,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/459.gif",
+    "types": ["くさ", "こおり"],
+    "stats": [60, 62, 50, 62, 60, 40]
+  },
+  "ユキノオー": {
+    "id": 460,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/460.gif",
+    "types": ["くさ", "こおり"],
+    "stats": [90, 92, 75, 92, 85, 60]
+  },
+  "マニューラ": {
+    "id": 461,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/461.gif",
+    "types": ["あく", "こおり"],
+    "stats": [70, 120, 65, 45, 85, 125]
+  },
+  "ジバコイル": {
+    "id": 462,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/462.gif",
+    "types": ["でんき", "はがね"],
+    "stats": [70, 70, 115, 130, 90, 60]
+  },
+  "ベロベルト": {
+    "id": 463,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/463.gif",
+    "types": ["ノーマル"],
+    "stats": [110, 85, 95, 80, 95, 50]
+  },
+  "ドサイドン": {
+    "id": 464,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/464.gif",
+    "types": ["じめん", "いわ"],
+    "stats": [115, 140, 130, 55, 55, 40]
+  },
+  "モジャンボ": {
+    "id": 465,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/465.gif",
+    "types": ["くさ"],
+    "stats": [100, 100, 125, 110, 50, 50]
+  },
+  "エレキブル": {
+    "id": 466,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/466.gif",
+    "types": ["でんき"],
+    "stats": [75, 123, 67, 95, 85, 95]
+  },
+  "ブーバーン": {
+    "id": 467,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/467.gif",
+    "types": ["ほのお"],
+    "stats": [75, 95, 67, 125, 95, 83]
+  },
+  "トゲキッス": {
+    "id": 468,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/468.gif",
+    "types": ["フェアリー", "ひこう"],
+    "stats": [85, 50, 95, 120, 115, 80]
+  },
+  "メガヤンマ": {
+    "id": 469,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/469.gif",
+    "types": ["むし", "ひこう"],
+    "stats": [86, 76, 86, 116, 56, 95]
+  },
+  "リーフィア": {
+    "id": 470,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/470.gif",
+    "types": ["くさ"],
+    "stats": [65, 110, 130, 60, 65, 95]
+  },
+  "グレイシア": {
+    "id": 471,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/471.gif",
+    "types": ["こおり"],
+    "stats": [65, 60, 110, 130, 95, 65]
+  },
+  "グライオン": {
+    "id": 472,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/472.gif",
+    "types": ["じめん", "ひこう"],
+    "stats": [75, 95, 125, 45, 75, 95]
+  },
+  "マンムー": {
+    "id": 473,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/473.gif",
+    "types": ["こおり", "じめん"],
+    "stats": [110, 130, 80, 70, 60, 80]
+  },
+  "ポリゴンＺ": {
+    "id": 474,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/474.gif",
+    "types": ["ノーマル"],
+    "stats": [85, 80, 70, 135, 75, 90]
+  },
+  "エルレイド": {
+    "id": 475,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/475.gif",
+    "types": ["エスパー", "かくとう"],
+    "stats": [68, 125, 65, 65, 115, 80]
+  },
+  "ダイノーズ": {
+    "id": 476,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/476.gif",
+    "types": ["いわ", "はがね"],
+    "stats": [60, 55, 145, 75, 150, 40]
+  },
+  "ヨノワール": {
+    "id": 477,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/477.gif",
+    "types": ["ゴースト"],
+    "stats": [45, 100, 135, 65, 135, 45]
+  },
+  "ユキメノコ": {
+    "id": 478,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/478.gif",
+    "types": ["こおり", "ゴースト"],
+    "stats": [70, 80, 70, 80, 70, 110]
+  },
+  "ロトム": {
+    "id": 479,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif",
+    "types": ["でんき", "ゴースト"],
+    "stats": [50, 50, 77, 95, 77, 91]
+  },
+  "ユクシー": {
+    "id": 480,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/480.gif",
+    "types": ["エスパー"],
+    "stats": [75, 75, 130, 75, 130, 95]
+  },
+  "エムリット": {
+    "id": 481,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/481.gif",
+    "types": ["エスパー"],
+    "stats": [80, 105, 105, 105, 105, 80]
+  },
+  "アグノム": {
+    "id": 482,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/482.gif",
+    "types": ["エスパー"],
+    "stats": [75, 125, 70, 125, 70, 115]
+  },
+  "ディアルガ": {
+    "id": 483,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/483.gif",
+    "types": ["はがね", "ドラゴン"],
+    "stats": [100, 120, 120, 150, 100, 90]
+  },
+  "パルキア": {
+    "id": 484,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/484.gif",
+    "types": ["みず", "ドラゴン"],
+    "stats": [90, 120, 100, 150, 120, 100]
+  },
+  "ヒードラン": {
+    "id": 485,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/485.gif",
+    "types": ["ほのお", "はがね"],
+    "stats": [91, 90, 106, 130, 106, 77]
+  },
+  "レジギガス": {
+    "id": 486,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/486.gif",
+    "types": ["ノーマル"],
+    "stats": [110, 160, 110, 80, 110, 100]
+  },
+  "ギラティナ": {
+    "id": 487,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/487.gif",
+    "types": ["ゴースト", "ドラゴン"],
+    "stats": [150, 100, 120, 100, 120, 90]
+  },
+  "クレセリア": {
+    "id": 488,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/488.gif",
+    "types": ["エスパー"],
+    "stats": [120, 70, 120, 75, 130, 85]
+  },
+  "フィオネ": {
+    "id": 489,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/489.gif",
+    "types": ["みず"],
+    "stats": [80, 80, 80, 80, 80, 80]
+  },
+  "マナフィ": {
+    "id": 490,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/490.gif",
+    "types": ["みず"],
+    "stats": [100, 100, 100, 100, 100, 100]
+  },
+  "ダークライ": {
+    "id": 491,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/491.gif",
+    "types": ["あく"],
+    "stats": [70, 90, 90, 135, 90, 125]
+  },
+  "シェイミ": {
+    "id": 492,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/492.gif",
+    "types": ["くさ"],
+    "stats": [100, 100, 100, 100, 100, 100]
+  },
+  "アルセウス": {
+    "id": 493,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/493.gif",
+    "types": ["ノーマル"],
+    "stats": [120, 120, 120, 120, 120, 120]
+  },
+  "ビクティニ": {
+    "id": 494,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/494.gif",
+    "types": ["エスパー", "ほのお"],
+    "stats": [100, 100, 100, 100, 100, 100]
+  },
+  "ツタージャ": {
+    "id": 495,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/495.gif",
+    "types": ["くさ"],
+    "stats": [45, 45, 55, 45, 55, 63]
+  },
+  "ジャノビー": {
+    "id": 496,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/496.gif",
+    "types": ["くさ"],
+    "stats": [60, 60, 75, 60, 75, 83]
+  },
+  "ジャローダ": {
+    "id": 497,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/497.gif",
+    "types": ["くさ"],
+    "stats": [75, 75, 95, 75, 95, 113]
+  },
+  "ポカブ": {
+    "id": 498,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/498.gif",
+    "types": ["ほのお"],
+    "stats": [65, 63, 45, 45, 45, 45]
+  },
+  "チャオブー": {
+    "id": 499,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/499.gif",
+    "types": ["ほのお", "かくとう"],
+    "stats": [90, 93, 55, 70, 55, 55]
+  },
+  "エンブオー": {
+    "id": 500,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/500.gif",
+    "types": ["ほのお", "かくとう"],
+    "stats": [110, 123, 65, 100, 65, 65]
+  },
+  "ミジュマル": {
+    "id": 501,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/501.gif",
+    "types": ["みず"],
+    "stats": [55, 55, 45, 63, 45, 45]
+  },
+  "フタチマル": {
+    "id": 502,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/502.gif",
+    "types": ["みず"],
+    "stats": [75, 75, 60, 83, 60, 60]
+  },
+  "ダイケンキ": {
+    "id": 503,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/503.gif",
+    "types": ["みず"],
+    "stats": [95, 100, 85, 108, 70, 70]
+  },
+  "ミネズミ": {
+    "id": 504,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/504.gif",
+    "types": ["ノーマル"],
+    "stats": [45, 55, 39, 35, 39, 42]
+  },
+  "ミルホッグ": {
+    "id": 505,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/505.gif",
+    "types": ["ノーマル"],
+    "stats": [60, 85, 69, 60, 69, 77]
+  },
+  "ヨーテリー": {
+    "id": 506,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/506.gif",
+    "types": ["ノーマル"],
+    "stats": [45, 60, 45, 25, 45, 55]
+  },
+  "ハーデリア": {
+    "id": 507,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/507.gif",
+    "types": ["ノーマル"],
+    "stats": [65, 80, 65, 35, 65, 60]
+  },
+  "ムーランド": {
+    "id": 508,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/508.gif",
+    "types": ["ノーマル"],
+    "stats": [85, 110, 90, 45, 90, 80]
+  },
+  "チョロネコ": {
+    "id": 509,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/509.gif",
+    "types": ["あく"],
+    "stats": [41, 50, 37, 50, 37, 66]
+  },
+  "レパルダス": {
+    "id": 510,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/510.gif",
+    "types": ["あく"],
+    "stats": [64, 88, 50, 88, 50, 106]
+  },
+  "ヤナップ": {
+    "id": 511,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/511.gif",
+    "types": ["くさ"],
+    "stats": [50, 53, 48, 53, 48, 64]
+  },
+  "ヤナッキー": {
+    "id": 512,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/512.gif",
+    "types": ["くさ"],
+    "stats": [75, 98, 63, 98, 63, 101]
+  },
+  "バオップ": {
+    "id": 513,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/513.gif",
+    "types": ["ほのお"],
+    "stats": [50, 53, 48, 53, 48, 64]
+  },
+  "バオッキー": {
+    "id": 514,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/514.gif",
+    "types": ["ほのお"],
+    "stats": [75, 98, 63, 98, 63, 101]
+  },
+  "ヒヤップ": {
+    "id": 515,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/515.gif",
+    "types": ["みず"],
+    "stats": [50, 53, 48, 53, 48, 64]
+  },
+  "ヒヤッキー": {
+    "id": 516,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/516.gif",
+    "types": ["みず"],
+    "stats": [75, 98, 63, 98, 63, 101]
+  },
+  "ムンナ": {
+    "id": 517,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/517.gif",
+    "types": ["エスパー"],
+    "stats": [76, 25, 45, 67, 55, 24]
+  },
+  "ムシャーナ": {
+    "id": 518,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/518.gif",
+    "types": ["エスパー"],
+    "stats": [116, 55, 85, 107, 95, 29]
+  },
+  "マメパト": {
+    "id": 519,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/519.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [50, 55, 50, 36, 30, 43]
+  },
+  "ハトーボー": {
+    "id": 520,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/520.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [62, 77, 62, 50, 42, 65]
+  },
+  "ケンホロウ": {
+    "id": 521,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/521.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [80, 115, 80, 65, 55, 93]
+  },
+  "シママ": {
+    "id": 522,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/522.gif",
+    "types": ["でんき"],
+    "stats": [45, 60, 32, 50, 32, 76]
+  },
+  "ゼブライカ": {
+    "id": 523,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/523.gif",
+    "types": ["でんき"],
+    "stats": [75, 100, 63, 80, 63, 116]
+  },
+  "ダンゴロ": {
+    "id": 524,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/524.gif",
+    "types": ["いわ"],
+    "stats": [55, 75, 85, 25, 25, 15]
+  },
+  "ガントル": {
+    "id": 525,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/525.gif",
+    "types": ["いわ"],
+    "stats": [70, 105, 105, 50, 40, 20]
+  },
+  "ギガイアス": {
+    "id": 526,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/526.gif",
+    "types": ["いわ"],
+    "stats": [85, 135, 130, 60, 80, 25]
+  },
+  "コロモリ": {
+    "id": 527,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/527.gif",
+    "types": ["エスパー", "ひこう"],
+    "stats": [65, 45, 43, 55, 43, 72]
+  },
+  "ココロモリ": {
+    "id": 528,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/528.gif",
+    "types": ["エスパー", "ひこう"],
+    "stats": [67, 57, 55, 77, 55, 114]
+  },
+  "モグリュー": {
+    "id": 529,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/529.gif",
+    "types": ["じめん"],
+    "stats": [60, 85, 40, 30, 45, 68]
+  },
+  "ドリュウズ": {
+    "id": 530,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/530.gif",
+    "types": ["じめん", "はがね"],
+    "stats": [110, 135, 60, 50, 65, 88]
+  },
+  "タブンネ": {
+    "id": 531,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/531.gif",
+    "types": ["ノーマル"],
+    "stats": [103, 60, 86, 60, 86, 50]
+  },
+  "ドッコラー": {
+    "id": 532,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/532.gif",
+    "types": ["かくとう"],
+    "stats": [75, 80, 55, 25, 35, 35]
+  },
+  "ドテッコツ": {
+    "id": 533,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/533.gif",
+    "types": ["かくとう"],
+    "stats": [85, 105, 85, 40, 50, 40]
+  },
+  "ローブシン": {
+    "id": 534,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/534.gif",
+    "types": ["かくとう"],
+    "stats": [105, 140, 95, 55, 65, 45]
+  },
+  "オタマロ": {
+    "id": 535,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/535.gif",
+    "types": ["みず"],
+    "stats": [50, 50, 40, 50, 40, 64]
+  },
+  "ガマガル": {
+    "id": 536,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/536.gif",
+    "types": ["みず", "じめん"],
+    "stats": [75, 65, 55, 65, 55, 69]
+  },
+  "ガマゲロゲ": {
+    "id": 537,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/537.gif",
+    "types": ["みず", "じめん"],
+    "stats": [105, 95, 75, 85, 75, 74]
+  },
+  "ナゲキ": {
+    "id": 538,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/538.gif",
+    "types": ["かくとう"],
+    "stats": [120, 100, 85, 30, 85, 45]
+  },
+  "ダゲキ": {
+    "id": 539,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/539.gif",
+    "types": ["かくとう"],
+    "stats": [75, 125, 75, 30, 75, 85]
+  },
+  "クルミル": {
+    "id": 540,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/540.gif",
+    "types": ["むし", "くさ"],
+    "stats": [45, 53, 70, 40, 60, 42]
+  },
+  "クルマユ": {
+    "id": 541,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/541.gif",
+    "types": ["むし", "くさ"],
+    "stats": [55, 63, 90, 50, 80, 42]
+  },
+  "ハハコモリ": {
+    "id": 542,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/542.gif",
+    "types": ["むし", "くさ"],
+    "stats": [75, 103, 80, 70, 80, 92]
+  },
+  "フシデ": {
+    "id": 543,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/543.gif",
+    "types": ["むし", "どく"],
+    "stats": [30, 45, 59, 30, 39, 57]
+  },
+  "ホイーガ": {
+    "id": 544,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/544.gif",
+    "types": ["むし", "どく"],
+    "stats": [40, 55, 99, 40, 79, 47]
+  },
+  "ペンドラー": {
+    "id": 545,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/545.gif",
+    "types": ["むし", "どく"],
+    "stats": [60, 100, 89, 55, 69, 112]
+  },
+  "モンメン": {
+    "id": 546,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/546.gif",
+    "types": ["くさ", "フェアリー"],
+    "stats": [40, 27, 60, 37, 50, 66]
+  },
+  "エルフーン": {
+    "id": 547,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/547.gif",
+    "types": ["くさ", "フェアリー"],
+    "stats": [60, 67, 85, 77, 75, 116]
+  },
+  "チュリネ": {
+    "id": 548,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/548.gif",
+    "types": ["くさ"],
+    "stats": [45, 35, 50, 70, 50, 30]
+  },
+  "ドレディア": {
+    "id": 549,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/549.gif",
+    "types": ["くさ"],
+    "stats": [70, 60, 75, 110, 75, 90]
+  },
+  "バスラオ": {
+    "id": 550,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/550.gif",
+    "types": ["みず"],
+    "stats": [70, 92, 65, 80, 55, 98]
+  },
+  "メグロコ": {
+    "id": 551,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/551.gif",
+    "types": ["じめん", "あく"],
+    "stats": [50, 72, 35, 35, 35, 65]
+  },
+  "ワルビル": {
+    "id": 552,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/552.gif",
+    "types": ["じめん", "あく"],
+    "stats": [60, 82, 45, 45, 45, 74]
+  },
+  "ワルビアル": {
+    "id": 553,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/553.gif",
+    "types": ["じめん", "あく"],
+    "stats": [95, 117, 80, 65, 70, 92]
+  },
+  "ダルマッカ": {
+    "id": 554,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/554.gif",
+    "types": ["ほのお"],
+    "stats": [70, 90, 45, 15, 45, 50]
+  },
+  "ヒヒダルマ": {
+    "id": 555,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/555.gif",
+    "types": ["ほのお"],
+    "stats": [105, 140, 55, 30, 55, 95]
+  },
+  "マラカッチ": {
+    "id": 556,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/556.gif",
+    "types": ["くさ"],
+    "stats": [75, 86, 67, 106, 67, 60]
+  },
+  "イシズマイ": {
+    "id": 557,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/557.gif",
+    "types": ["むし", "いわ"],
+    "stats": [50, 65, 85, 35, 35, 55]
+  },
+  "イワパレス": {
+    "id": 558,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/558.gif",
+    "types": ["むし", "いわ"],
+    "stats": [70, 105, 125, 65, 75, 45]
+  },
+  "ズルッグ": {
+    "id": 559,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/559.gif",
+    "types": ["あく", "かくとう"],
+    "stats": [50, 75, 70, 35, 70, 48]
+  },
+  "ズルズキン": {
+    "id": 560,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/560.gif",
+    "types": ["あく", "かくとう"],
+    "stats": [65, 90, 115, 45, 115, 58]
+  },
+  "シンボラー": {
+    "id": 561,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/561.gif",
+    "types": ["エスパー", "ひこう"],
+    "stats": [72, 58, 80, 103, 80, 97]
+  },
+  "デスマス": {
+    "id": 562,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/562.gif",
+    "types": ["ゴースト"],
+    "stats": [38, 30, 85, 55, 65, 30]
+  },
+  "デスカーン": {
+    "id": 563,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/563.gif",
+    "types": ["ゴースト"],
+    "stats": [58, 50, 145, 95, 105, 30]
+  },
+  "プロトーガ": {
+    "id": 564,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/564.gif",
+    "types": ["みず", "いわ"],
+    "stats": [54, 78, 103, 53, 45, 22]
+  },
+  "アバゴーラ": {
+    "id": 565,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/565.gif",
+    "types": ["みず", "いわ"],
+    "stats": [74, 108, 133, 83, 65, 32]
+  },
+  "アーケン": {
+    "id": 566,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/566.gif",
+    "types": ["いわ", "ひこう"],
+    "stats": [55, 112, 45, 74, 45, 70]
+  },
+  "アーケオス": {
+    "id": 567,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/567.gif",
+    "types": ["いわ", "ひこう"],
+    "stats": [75, 140, 65, 112, 65, 110]
+  },
+  "ヤブクロン": {
+    "id": 568,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/568.gif",
+    "types": ["どく"],
+    "stats": [50, 50, 62, 40, 62, 65]
+  },
+  "ダストダス": {
+    "id": 569,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/569.gif",
+    "types": ["どく"],
+    "stats": [80, 95, 82, 60, 82, 75]
+  },
+  "ゾロア": {
+    "id": 570,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/570.gif",
+    "types": ["あく"],
+    "stats": [40, 65, 40, 80, 40, 65]
+  },
+  "ゾロアーク": {
+    "id": 571,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/571.gif",
+    "types": ["あく"],
+    "stats": [60, 105, 60, 120, 60, 105]
+  },
+  "チラーミィ": {
+    "id": 572,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/572.gif",
+    "types": ["ノーマル"],
+    "stats": [55, 50, 40, 40, 40, 75]
+  },
+  "チラチーノ": {
+    "id": 573,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/573.gif",
+    "types": ["ノーマル"],
+    "stats": [75, 95, 60, 65, 60, 115]
+  },
+  "ゴチム": {
+    "id": 574,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/574.gif",
+    "types": ["エスパー"],
+    "stats": [45, 30, 50, 55, 65, 45]
+  },
+  "ゴチミル": {
+    "id": 575,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/575.gif",
+    "types": ["エスパー"],
+    "stats": [60, 45, 70, 75, 85, 55]
+  },
+  "ゴチルゼル": {
+    "id": 576,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/576.gif",
+    "types": ["エスパー"],
+    "stats": [70, 55, 95, 95, 110, 65]
+  },
+  "ユニラン": {
+    "id": 577,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/577.gif",
+    "types": ["エスパー"],
+    "stats": [45, 30, 40, 105, 50, 20]
+  },
+  "ダブラン": {
+    "id": 578,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/578.gif",
+    "types": ["エスパー"],
+    "stats": [65, 40, 50, 125, 60, 30]
+  },
+  "ランクルス": {
+    "id": 579,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/579.gif",
+    "types": ["エスパー"],
+    "stats": [110, 65, 75, 125, 85, 30]
+  },
+  "コアルヒー": {
+    "id": 580,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/580.gif",
+    "types": ["みず", "ひこう"],
+    "stats": [62, 44, 50, 44, 50, 55]
+  },
+  "スワンナ": {
+    "id": 581,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/581.gif",
+    "types": ["みず", "ひこう"],
+    "stats": [75, 87, 63, 87, 63, 98]
+  },
+  "バニプッチ": {
+    "id": 582,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/582.gif",
+    "types": ["こおり"],
+    "stats": [36, 50, 50, 65, 60, 44]
+  },
+  "バニリッチ": {
+    "id": 583,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/583.gif",
+    "types": ["こおり"],
+    "stats": [51, 65, 65, 80, 75, 59]
+  },
+  "バイバニラ": {
+    "id": 584,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/584.gif",
+    "types": ["こおり"],
+    "stats": [71, 95, 85, 110, 95, 79]
+  },
+  "シキジカ": {
+    "id": 585,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/585.gif",
+    "types": ["ノーマル", "くさ"],
+    "stats": [60, 60, 50, 40, 50, 75]
+  },
+  "メブキジカ": {
+    "id": 586,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/586.gif",
+    "types": ["ノーマル", "くさ"],
+    "stats": [80, 100, 70, 60, 70, 95]
+  },
+  "エモンガ": {
+    "id": 587,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/587.gif",
+    "types": ["でんき", "ひこう"],
+    "stats": [55, 75, 60, 75, 60, 103]
+  },
+  "カブルモ": {
+    "id": 588,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/588.gif",
+    "types": ["むし"],
+    "stats": [50, 75, 45, 40, 45, 60]
+  },
+  "シュバルゴ": {
+    "id": 589,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/589.gif",
+    "types": ["むし", "はがね"],
+    "stats": [70, 135, 105, 60, 105, 20]
+  },
+  "タマゲタケ": {
+    "id": 590,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/590.gif",
+    "types": ["くさ", "どく"],
+    "stats": [69, 55, 45, 55, 55, 15]
+  },
+  "モロバレル": {
+    "id": 591,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/591.gif",
+    "types": ["くさ", "どく"],
+    "stats": [114, 85, 70, 85, 80, 30]
+  },
+  "プルリル": {
+    "id": 592,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/592.gif",
+    "types": ["みず", "ゴースト"],
+    "stats": [55, 40, 50, 65, 85, 40]
+  },
+  "ブルンゲル": {
+    "id": 593,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/593.gif",
+    "types": ["みず", "ゴースト"],
+    "stats": [100, 60, 70, 85, 105, 60]
+  },
+  "ママンボウ": {
+    "id": 594,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/594.gif",
+    "types": ["みず"],
+    "stats": [165, 75, 80, 40, 45, 65]
+  },
+  "バチュル": {
+    "id": 595,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/595.gif",
+    "types": ["むし", "でんき"],
+    "stats": [50, 47, 50, 57, 50, 65]
+  },
+  "デンチュラ": {
+    "id": 596,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/596.gif",
+    "types": ["むし", "でんき"],
+    "stats": [70, 77, 60, 97, 60, 108]
+  },
+  "テッシード": {
+    "id": 597,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/597.gif",
+    "types": ["くさ", "はがね"],
+    "stats": [44, 50, 91, 24, 86, 10]
+  },
+  "ナットレイ": {
+    "id": 598,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/598.gif",
+    "types": ["くさ", "はがね"],
+    "stats": [74, 94, 131, 54, 116, 20]
+  },
+  "ギアル": {
+    "id": 599,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/599.gif",
+    "types": ["はがね"],
+    "stats": [40, 55, 70, 45, 60, 30]
+  },
+  "ギギアル": {
+    "id": 600,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/600.gif",
+    "types": ["はがね"],
+    "stats": [60, 80, 95, 70, 85, 50]
+  },
+  "ギギギアル": {
+    "id": 601,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/601.gif",
+    "types": ["はがね"],
+    "stats": [60, 100, 115, 70, 85, 90]
+  },
+  "シビシラス": {
+    "id": 602,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/602.gif",
+    "types": ["でんき"],
+    "stats": [35, 55, 40, 45, 40, 60]
+  },
+  "シビビール": {
+    "id": 603,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/603.gif",
+    "types": ["でんき"],
+    "stats": [65, 85, 70, 75, 70, 40]
+  },
+  "シビルドン": {
+    "id": 604,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/604.gif",
+    "types": ["でんき"],
+    "stats": [85, 115, 80, 105, 80, 50]
+  },
+  "リグレー": {
+    "id": 605,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/605.gif",
+    "types": ["エスパー"],
+    "stats": [55, 55, 55, 85, 55, 30]
+  },
+  "オーベム": {
+    "id": 606,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/606.gif",
+    "types": ["エスパー"],
+    "stats": [75, 75, 75, 125, 95, 40]
+  },
+  "ヒトモシ": {
+    "id": 607,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/607.gif",
+    "types": ["ゴースト", "ほのお"],
+    "stats": [50, 30, 55, 65, 55, 20]
+  },
+  "ランプラー": {
+    "id": 608,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/608.gif",
+    "types": ["ゴースト", "ほのお"],
+    "stats": [60, 40, 60, 95, 60, 55]
+  },
+  "シャンデラ": {
+    "id": 609,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/609.gif",
+    "types": ["ゴースト", "ほのお"],
+    "stats": [60, 55, 90, 145, 90, 80]
+  },
+  "キバゴ": {
+    "id": 610,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/610.gif",
+    "types": ["ドラゴン"],
+    "stats": [46, 87, 60, 30, 40, 57]
+  },
+  "オノンド": {
+    "id": 611,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/611.gif",
+    "types": ["ドラゴン"],
+    "stats": [66, 117, 70, 40, 50, 67]
+  },
+  "オノノクス": {
+    "id": 612,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/612.gif",
+    "types": ["ドラゴン"],
+    "stats": [76, 147, 90, 60, 70, 97]
+  },
+  "クマシュン": {
+    "id": 613,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/613.gif",
+    "types": ["こおり"],
+    "stats": [55, 70, 40, 60, 40, 40]
+  },
+  "ツンベアー": {
+    "id": 614,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/614.gif",
+    "types": ["こおり"],
+    "stats": [95, 130, 80, 70, 80, 50]
+  },
+  "フリージオ": {
+    "id": 615,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/615.gif",
+    "types": ["こおり"],
+    "stats": [80, 50, 50, 95, 135, 105]
+  },
+  "チョボマキ": {
+    "id": 616,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/616.gif",
+    "types": ["むし"],
+    "stats": [50, 40, 85, 40, 65, 25]
+  },
+  "アギルダー": {
+    "id": 617,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/617.gif",
+    "types": ["むし"],
+    "stats": [80, 70, 40, 100, 60, 145]
+  },
+  "マッギョ": {
+    "id": 618,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/618.gif",
+    "types": ["じめん", "でんき"],
+    "stats": [109, 66, 84, 81, 99, 32]
+  },
+  "コジョフー": {
+    "id": 619,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/619.gif",
+    "types": ["かくとう"],
+    "stats": [45, 85, 50, 55, 50, 65]
+  },
+  "コジョンド": {
+    "id": 620,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/620.gif",
+    "types": ["かくとう"],
+    "stats": [65, 125, 60, 95, 60, 105]
+  },
+  "クリムガン": {
+    "id": 621,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/621.gif",
+    "types": ["ドラゴン"],
+    "stats": [77, 120, 90, 60, 90, 48]
+  },
+  "ゴビット": {
+    "id": 622,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/622.gif",
+    "types": ["じめん", "ゴースト"],
+    "stats": [59, 74, 50, 35, 50, 35]
+  },
+  "ゴルーグ": {
+    "id": 623,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/623.gif",
+    "types": ["じめん", "ゴースト"],
+    "stats": [89, 124, 80, 55, 80, 55]
+  },
+  "コマタナ": {
+    "id": 624,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/624.gif",
+    "types": ["あく", "はがね"],
+    "stats": [45, 85, 70, 40, 40, 60]
+  },
+  "キリキザン": {
+    "id": 625,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/625.gif",
+    "types": ["あく", "はがね"],
+    "stats": [65, 125, 100, 60, 70, 70]
+  },
+  "バッフロン": {
+    "id": 626,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/626.gif",
+    "types": ["ノーマル"],
+    "stats": [95, 110, 95, 40, 95, 55]
+  },
+  "ワシボン": {
+    "id": 627,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/627.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [70, 83, 50, 37, 50, 60]
+  },
+  "ウォーグル": {
+    "id": 628,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/628.gif",
+    "types": ["ノーマル", "ひこう"],
+    "stats": [100, 123, 75, 57, 75, 80]
+  },
+  "バルチャイ": {
+    "id": 629,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/629.gif",
+    "types": ["あく", "ひこう"],
+    "stats": [70, 55, 75, 45, 65, 60]
+  },
+  "バルジーナ": {
+    "id": 630,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/630.gif",
+    "types": ["あく", "ひこう"],
+    "stats": [110, 65, 105, 55, 95, 80]
+  },
+  "クイタラン": {
+    "id": 631,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/631.gif",
+    "types": ["ほのお"],
+    "stats": [85, 97, 66, 105, 66, 65]
+  },
+  "アイアント": {
+    "id": 632,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/632.gif",
+    "types": ["むし", "はがね"],
+    "stats": [58, 109, 112, 48, 48, 109]
+  },
+  "モノズ": {
+    "id": 633,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/633.gif",
+    "types": ["あく", "ドラゴン"],
+    "stats": [52, 65, 50, 45, 50, 38]
+  },
+  "ジヘッド": {
+    "id": 634,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/634.gif",
+    "types": ["あく", "ドラゴン"],
+    "stats": [72, 85, 70, 65, 70, 58]
+  },
+  "サザンドラ": {
+    "id": 635,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/635.gif",
+    "types": ["あく", "ドラゴン"],
+    "stats": [92, 105, 90, 125, 90, 98]
+  },
+  "メラルバ": {
+    "id": 636,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/636.gif",
+    "types": ["むし", "ほのお"],
+    "stats": [55, 85, 55, 50, 55, 60]
+  },
+  "ウルガモス": {
+    "id": 637,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/637.gif",
+    "types": ["むし", "ほのお"],
+    "stats": [85, 60, 65, 135, 105, 100]
+  },
+  "コバルオン": {
+    "id": 638,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/638.gif",
+    "types": ["はがね", "かくとう"],
+    "stats": [91, 90, 129, 90, 72, 108]
+  },
+  "テラキオン": {
+    "id": 639,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/639.gif",
+    "types": ["いわ", "かくとう"],
+    "stats": [91, 129, 90, 72, 90, 108]
+  },
+  "ビリジオン": {
+    "id": 640,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/640.gif",
+    "types": ["くさ", "かくとう"],
+    "stats": [91, 90, 72, 90, 129, 108]
+  },
+  "トルネロス": {
+    "id": 641,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/641.gif",
+    "types": ["ひこう"],
+    "stats": [79, 115, 70, 125, 80, 111]
+  },
+  "ボルトロス": {
+    "id": 642,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/642.gif",
+    "types": ["でんき", "ひこう"],
+    "stats": [79, 115, 70, 125, 80, 111]
+  },
+  "レシラム": {
+    "id": 643,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/643.gif",
+    "types": ["ドラゴン", "ほのお"],
+    "stats": [100, 120, 100, 150, 120, 90]
+  },
+  "ゼクロム": {
+    "id": 644,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/644.gif",
+    "types": ["ドラゴン", "でんき"],
+    "stats": [100, 150, 120, 120, 100, 90]
+  },
+  "ランドロス": {
+    "id": 645,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/645.gif",
+    "types": ["じめん", "ひこう"],
+    "stats": [89, 125, 90, 115, 80, 101]
+  },
+  "キュレム": {
+    "id": 646,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/646.gif",
+    "types": ["ドラゴン", "こおり"],
+    "stats": [125, 130, 90, 130, 90, 95]
+  },
+  "ケルディオ": {
+    "id": 647,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/647.gif",
+    "types": ["みず", "かくとう"],
+    "stats": [91, 72, 90, 129, 90, 108]
+  },
+  "メロエッタ": {
+    "id": 648,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/648.gif",
+    "types": ["ノーマル", "エスパー"],
+    "stats": [100, 77, 77, 128, 128, 90]
+  },
+  "ゲノセクト": {
+    "id": 649,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/649.gif",
+    "types": ["むし", "はがね"],
+    "stats": [71, 120, 95, 120, 95, 99]
+  }
+}

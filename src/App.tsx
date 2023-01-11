@@ -1,11 +1,18 @@
-import * as React from 'react'
-import Chip from '@mui/material/Chip'
+import React from 'react'
+import { useState } from 'react'
 import Autocomplete from '@mui/material/Autocomplete'
 import TextField from '@mui/material/TextField'
-import Stack from '@mui/material/Stack'
 import './App.css'
 
 export default function App() {
+  const PokemonList: Pokemon = require('../src/PokemonList.json')
+
+  const pokemons = Object.keys(PokemonList)
+  pokemons.sort((a, b) => a.localeCompare(b, 'ja'))
+
+  const [atkPok, setAtkPok] = useState<string>('')
+  const [atkImg, setAtkImg] = useState<string>('')
+
   return (
     <div className="App">
       <div>
@@ -15,17 +22,19 @@ export default function App() {
             <Autocomplete
               id="combo-box"
               options={pokemons}
+              onChange={(_, value) => setAtkImg(PokemonList[value!].sprite)}
               renderInput={(params) => (
                 <TextField {...params} label="Attacker" />
               )}
             />
+            <img src={atkImg} alt="" />
           </div>
           <div className="Box">
             <Autocomplete
               id="combo-box"
               options={pokemons}
               renderInput={(params) => (
-                <TextField {...params} label="Attacker" />
+                <TextField {...params} label="Defender" />
               )}
             />
           </div>
@@ -34,9 +43,3 @@ export default function App() {
     </div>
   )
 }
-
-const pokemons = [
-  { label: 'ジャローダ' },
-  { label: 'エンブオー' },
-  { label: 'ダイケンキ' },
-]
