@@ -6,11 +6,10 @@ import './App.css'
 
 export default function App() {
   const PokemonList: Pokemon = require('../src/PokemonList.json')
-
-  const pokemons = Object.keys(PokemonList)
-  pokemons.sort((a, b) => a.localeCompare(b, 'ja'))
+  const MoveList: Move = require('../src/MoveList.json')
 
   const [atkPok, setAtkPok] = useState<string>('ビクティニ')
+  const [atkMove, setAtkMove] = useState<string>('Ｖジェネレート')
 
   const OutPutTypes = () => {
     if (PokemonList[atkPok].types.length == 2)
@@ -25,6 +24,13 @@ export default function App() {
     for (let index in HABCDS)
       stats += HABCDS[index] + atkSta[index] + ' '
     return stats
+  }
+
+  const OutPutMove = () => {
+    const type = MoveList[atkMove].type
+    const power = MoveList[atkMove].power
+    const damage_class = MoveList[atkMove].damage_class
+    return type + ' 威力' + power + ' ' + damage_class
   }
 
   return (
@@ -45,13 +51,25 @@ export default function App() {
         <div className='ac-wrap'>
           <Autocomplete
             disableClearable
-            options={pokemons}
+            options={Object.keys(PokemonList)}
             defaultValue={'ビクティニ'}
             onChange={(_, value) => setAtkPok(value!)}
             renderInput={(params) => (
-              <TextField {...params} label='Attacker' />
+              <TextField {...params} label='ポケモン' />
             )}
           />
+        </div>
+        <div className='ac-wrap'>
+          <Autocomplete
+            disableClearable
+            options={Object.keys(MoveList)}
+            defaultValue={'Ｖジェネレート'}
+            onChange={(_, value) => setAtkMove(value!)}
+            renderInput={(params) => (
+              <TextField {...params} label='攻撃技' />
+            )}
+          />
+          <span>{OutPutMove()}</span>
         </div>
       </div>
     </div>

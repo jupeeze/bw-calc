@@ -8,6 +8,11 @@ body {
   background-color: gainsboro;
 }
 
+/* 区切り線 */
+hr {
+  margin: 16px;
+}
+
 /* タイトル */
 .title {
   text-align: center;
@@ -63,5 +68,10 @@ body {
 
 /* Autocompleteの親 */
 .ac-wrap {
-  padding: 16px;
+  padding-inline: 16px;
+  margin-block: 16px;
+}
+
+.ac-wrap span {
+  margin: 16px;
 }
