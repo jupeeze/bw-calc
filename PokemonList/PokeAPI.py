@@ -2,13 +2,14 @@ import json
 
 import requests
 
-pokeList = {}
 genPokeNum = {1: 1, 2: 152, 3: 252, 4: 387, 5: 494, 6: 650}
 typeJP = {"normal": "ノーマル", "fighting": "かくとう", "flying": "ひこう", "poison": "どく", "ground": "じめん", "rock": "いわ", "bug": "むし", "ghost": "ゴースト", "steel": "はがね",
           "fire": "ほのお", "water": "みず", "grass": "くさ", "electric": "でんき", "psychic": "エスパー", "ice": "こおり", "dragon": "ドラゴン", "dark": "あく", "fairy": "フェアリー"}
 pokeApiRoute = "https://pokeapi.co/api/v2"
 
 for gen in range(1, len(genPokeNum)):
+    pokeList = {}
+
     for id in range(genPokeNum[gen], genPokeNum[gen+1]):
         print(f"\r\033{id}", end="")
 

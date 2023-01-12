@@ -10,36 +10,48 @@ export default function App() {
   const pokemons = Object.keys(PokemonList)
   pokemons.sort((a, b) => a.localeCompare(b, 'ja'))
 
-  const [atkPok, setAtkPok] = useState<string>('')
-  const [atkImg, setAtkImg] = useState<string>('')
+  const [atkPok, setAtkPok] = useState<string>('ビクティニ')
+
+  const OutPutTypes = () => {
+    if (PokemonList[atkPok].types.length == 2)
+      return PokemonList[atkPok].types[0] + ' / ' + PokemonList[atkPok].types[1]
+    return PokemonList[atkPok].types
+  }
+
+  const OutPutStats = () => {
+    let stats = ''
+    const HABCDS = 'HABCDS'.split('')
+    const atkSta = PokemonList[atkPok].stats;
+    for (let index in HABCDS)
+      stats += HABCDS[index] + atkSta[index] + ' '
+    return stats
+  }
 
   return (
-    <div className="App">
-      <div>
-        <h2>ダメージ計算ツールBW</h2>
-        <div className="Container">
-          <div className="Box">
-            <Autocomplete
-              id="combo-box"
-              options={pokemons}
-              onChange={(_, value) => setAtkImg(PokemonList[value!].sprite)}
-              renderInput={(params) => (
-                <TextField {...params} label="Attacker" />
-              )}
-            />
-            <div className='image-wrap'>
-              <img src={atkImg} />
-            </div>
+    <div>
+      <h2 className='title'>ダメージ計算ツールBW</h2>
+      <div className='container'>
+        <div className='box'>
+          <div className='image-wrap'>
+            <img src={PokemonList[atkPok].sprite} />
           </div>
-          <div className="Box">
-            <Autocomplete
-              id="combo-box"
-              options={pokemons}
-              renderInput={(params) => (
-                <TextField {...params} label="Defender" />
-              )}
-            />
+          <div className='text-wrap'>
+            <span>{OutPutTypes()}</span>
+            <br />
+            <span>{OutPutStats()}</span>
           </div>
+        </div>
+        <hr />
+        <div className='ac-wrap'>
+          <Autocomplete
+            disableClearable
+            options={pokemons}
+            defaultValue={'ビクティニ'}
+            onChange={(_, value) => setAtkPok(value!)}
+            renderInput={(params) => (
+              <TextField {...params} label='Attacker' />
+            )}
+          />
         </div>
       </div>
     </div>

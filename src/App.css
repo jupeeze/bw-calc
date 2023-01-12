@@ -1,28 +1,43 @@
+/* 変数 */
 :root {
   --mui-shape-borderRadius: 16px;
 }
 
-.App {
+/* 背景色 */
+body {
+  background-color: gainsboro;
+}
+
+/* タイトル */
+.title {
   text-align: center;
 }
 
-.Box {
+/* 白四角 */
+.container {
+  background-color: white;
   border-radius: var(--mui-shape-borderRadius);
-  padding: 24px;
+  margin: 16px;
+  padding: 16px;
 }
 
-.Container {
+/* 画像＆タイプ・種族値 */
+.box {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: row;
+  flex-wrap: nowrap;
 }
 
+/* 画像の親 */
 .image-wrap {
+  display: inline-block;
   position: relative;
   overflow: hidden;
   width: 64px;
   height: 64px;
 }
 
+/* 画像 */
 .image-wrap img {
   position: absolute;
   top: 50%;
@@ -30,10 +45,23 @@
   transform: translate(-50%, -50%);
   width: 64px;
   height: 64px;
+  object-fit: scale-down;
 }
 
-@media (max-width: 767px) {
-  .Container {
-    display: block;
-  }
+/* テキストの親 */
+.text-wrap {
+  display: flex;
+  flex-direction: column;
+  padding-left: 16px;
+  justify-content: center;
+}
+
+/* テキスト */
+.text-wrap span {
+  font-size: 0.875rem;
+}
+
+/* Autocompleteの親 */
+.ac-wrap {
+  padding: 16px;
 }
