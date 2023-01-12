@@ -1,0 +1,3320 @@
+{
+  "アイアンテール": {
+    "id": 231,
+    "type": "はがね",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "アイアンヘッド": {
+    "id": 442,
+    "type": "はがね",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "アイアンローラー": {
+    "id": 798,
+    "type": "はがね",
+    "power": 130,
+    "damage_class": "物理"
+  },
+  "アイススピナー": {
+    "id": 861,
+    "type": "こおり",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "アイスハンマー": {
+    "id": 665,
+    "type": "こおり",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "アイスボール": {
+    "id": 301,
+    "type": "こおり",
+    "power": 30,
+    "damage_class": "物理"
+  },
+  "あおいほのお": {
+    "id": 551,
+    "type": "ほのお",
+    "power": 130,
+    "damage_class": "特殊"
+  },
+  "アクアカッター": {
+    "id": 895,
+    "type": "みず",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "アクアジェット": {
+    "id": 453,
+    "type": "みず",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "アクアステップ": {
+    "id": 872,
+    "type": "みず",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "アクアテール": {
+    "id": 401,
+    "type": "みず",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "アクアブレイク": {
+    "id": 710,
+    "type": "みず",
+    "power": 85,
+    "damage_class": "物理"
+  },
+  "あくうせつだん": {
+    "id": 460,
+    "type": "ドラゴン",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "アクセルブレイク": {
+    "id": 878,
+    "type": "かくとう",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "アクセルロック": {
+    "id": 709,
+    "type": "いわ",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "あくのはどう": {
+    "id": 399,
+    "type": "あく",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "アクロバット": {
+    "id": 512,
+    "type": "ひこう",
+    "power": 55,
+    "damage_class": "物理"
+  },
+  "アシストパワー": {
+    "id": 500,
+    "type": "エスパー",
+    "power": 20,
+    "damage_class": "特殊"
+  },
+  "アシッドボム": {
+    "id": 491,
+    "type": "どく",
+    "power": 40,
+    "damage_class": "特殊"
+  },
+  "アストラルビット": {
+    "id": 825,
+    "type": "ゴースト",
+    "power": 120,
+    "damage_class": "特殊"
+  },
+  "あてみなげ": {
+    "id": 233,
+    "type": "かくとう",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "あなをほる": {
+    "id": 91,
+    "type": "じめん",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "あばれる": {
+    "id": 37,
+    "type": "ノーマル",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "アフロブレイク": {
+    "id": 543,
+    "type": "ノーマル",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "あやしいかぜ": {
+    "id": 466,
+    "type": "ゴースト",
+    "power": 60,
+    "damage_class": "特殊"
+  },
+  "あわ": {
+    "id": 145,
+    "type": "みず",
+    "power": 40,
+    "damage_class": "特殊"
+  },
+  "アンカーショット": {
+    "id": 677,
+    "type": "はがね",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "あんこくきょうだ": {
+    "id": 817,
+    "type": "あく",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "アーマーキャノン": {
+    "id": 890,
+    "type": "ほのお",
+    "power": 120,
+    "damage_class": "特殊"
+  },
+  "アームハンマー": {
+    "id": 359,
+    "type": "かくとう",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "いあいぎり": {
+    "id": 15,
+    "type": "ノーマル",
+    "power": 50,
+    "damage_class": "物理"
+  },
+  "イカサマ": {
+    "id": 492,
+    "type": "あく",
+    "power": 95,
+    "damage_class": "物理"
+  },
+  "いかり": {
+    "id": 99,
+    "type": "ノーマル",
+    "power": 20,
+    "damage_class": "物理"
+  },
+  "いきいきバブル": {
+    "id": 733,
+    "type": "みず",
+    "power": 60,
+    "damage_class": "特殊"
+  },
+  "いじげんホール": {
+    "id": 593,
+    "type": "エスパー",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "いじげんラッシュ": {
+    "id": 621,
+    "type": "あく",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "いっちょうあがり": {
+    "id": 856,
+    "type": "ドラゴン",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "いてつくしせん": {
+    "id": 821,
+    "type": "エスパー",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "イナズマドライブ": {
+    "id": 879,
+    "type": "でんき",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "いにしえのうた": {
+    "id": 547,
+    "type": "ノーマル",
+    "power": 75,
+    "damage_class": "特殊"
+  },
+  "いびき": {
+    "id": 173,
+    "type": "ノーマル",
+    "power": 50,
+    "damage_class": "特殊"
+  },
+  "いわおとし": {
+    "id": 88,
+    "type": "いわ",
+    "power": 50,
+    "damage_class": "物理"
+  },
+  "いわくだき": {
+    "id": 249,
+    "type": "かくとう",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "いわなだれ": {
+    "id": 157,
+    "type": "いわ",
+    "power": 75,
+    "damage_class": "物理"
+  },
+  "インファイト": {
+    "id": 370,
+    "type": "かくとう",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "ウェザーボール": {
+    "id": 311,
+    "type": "ノーマル",
+    "power": 50,
+    "damage_class": "特殊"
+  },
+  "ウェーブタックル": {
+    "id": 834,
+    "type": "みず",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "うずしお": {
+    "id": 250,
+    "type": "みず",
+    "power": 35,
+    "damage_class": "特殊"
+  },
+  "うたかたのアリア": {
+    "id": 664,
+    "type": "みず",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "うちおとす": {
+    "id": 479,
+    "type": "いわ",
+    "power": 50,
+    "damage_class": "物理"
+  },
+  "ウッドハンマー": {
+    "id": 452,
+    "type": "くさ",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "ウッドホーン": {
+    "id": 532,
+    "type": "くさ",
+    "power": 75,
+    "damage_class": "物理"
+  },
+  "うっぷんばらし": {
+    "id": 808,
+    "type": "あく",
+    "power": 75,
+    "damage_class": "物理"
+  },
+  "うらみつらみ": {
+    "id": 841,
+    "type": "ゴースト",
+    "power": 75,
+    "damage_class": "特殊"
+  },
+  "エアカッター": {
+    "id": 314,
+    "type": "ひこう",
+    "power": 60,
+    "damage_class": "特殊"
+  },
+  "エアスラッシュ": {
+    "id": 403,
+    "type": "ひこう",
+    "power": 75,
+    "damage_class": "特殊"
+  },
+  "エアロブラスト": {
+    "id": 177,
+    "type": "ひこう",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "エコーボイス": {
+    "id": 497,
+    "type": "ノーマル",
+    "power": 40,
+    "damage_class": "特殊"
+  },
+  "えだづき": {
+    "id": 785,
+    "type": "くさ",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "エナジーボール": {
+    "id": 412,
+    "type": "くさ",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "エラがみ": {
+    "id": 755,
+    "type": "みず",
+    "power": 85,
+    "damage_class": "物理"
+  },
+  "エレキネット": {
+    "id": 527,
+    "type": "でんき",
+    "power": 55,
+    "damage_class": "特殊"
+  },
+  "おいうち": {
+    "id": 228,
+    "type": "あく",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "おうふくビンタ": {
+    "id": 3,
+    "type": "ノーマル",
+    "power": 15,
+    "damage_class": "物理"
+  },
+  "オクタンほう": {
+    "id": 190,
+    "type": "みず",
+    "power": 65,
+    "damage_class": "特殊"
+  },
+  "おしゃべり": {
+    "id": 448,
+    "type": "ひこう",
+    "power": 65,
+    "damage_class": "特殊"
+  },
+  "おどろかす": {
+    "id": 310,
+    "type": "ゴースト",
+    "power": 30,
+    "damage_class": "物理"
+  },
+  "おはかまいり": {
+    "id": 854,
+    "type": "ゴースト",
+    "power": 50,
+    "damage_class": "物理"
+  },
+  "オリジンズスーパーノヴァ": {
+    "id": 703,
+    "type": "エスパー",
+    "power": 185,
+    "damage_class": "特殊"
+  },
+  "オーバードライブ": {
+    "id": 786,
+    "type": "でんき",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "オーバーヒート": {
+    "id": 315,
+    "type": "ほのお",
+    "power": 130,
+    "damage_class": "特殊"
+  },
+  "オーラウイング": {
+    "id": 840,
+    "type": "エスパー",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "オーラぐるま": {
+    "id": 783,
+    "type": "でんき",
+    "power": 110,
+    "damage_class": "物理"
+  },
+  "オーロラビーム": {
+    "id": 62,
+    "type": "こおり",
+    "power": 65,
+    "damage_class": "特殊"
+  },
+  "かいりき": {
+    "id": 70,
+    "type": "ノーマル",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "かえんぐるま": {
+    "id": 172,
+    "type": "ほのお",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "かえんだん": {
+    "id": 545,
+    "type": "ほのお",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "かえんほうしゃ": {
+    "id": 53,
+    "type": "ほのお",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "かえんボール": {
+    "id": 780,
+    "type": "ほのお",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "かかとおとし": {
+    "id": 853,
+    "type": "かくとう",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "かげうち": {
+    "id": 425,
+    "type": "ゴースト",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "かげぬい": {
+    "id": 662,
+    "type": "ゴースト",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "かぜおこし": {
+    "id": 16,
+    "type": "ひこう",
+    "power": 40,
+    "damage_class": "特殊"
+  },
+  "かたきうち": {
+    "id": 514,
+    "type": "ノーマル",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "カタストロフィ": {
+    "id": 877,
+    "type": "あく",
+    "power": 1,
+    "damage_class": "特殊"
+  },
+  "かふんだんご": {
+    "id": 676,
+    "type": "むし",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "かまいたち": {
+    "id": 13,
+    "type": "ノーマル",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "かみくだく": {
+    "id": 242,
+    "type": "あく",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "かみつく": {
+    "id": 44,
+    "type": "あく",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "かみなり": {
+    "id": 87,
+    "type": "でんき",
+    "power": 110,
+    "damage_class": "特殊"
+  },
+  "かみなりあらし": {
+    "id": 847,
+    "type": "でんき",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "かみなりのキバ": {
+    "id": 422,
+    "type": "でんき",
+    "power": 65,
+    "damage_class": "物理"
+  },
+  "かみなりパンチ": {
+    "id": 9,
+    "type": "でんき",
+    "power": 75,
+    "damage_class": "物理"
+  },
+  "からげんき": {
+    "id": 263,
+    "type": "ノーマル",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "からてチョップ": {
+    "id": 2,
+    "type": "かくとう",
+    "power": 50,
+    "damage_class": "物理"
+  },
+  "からではさむ": {
+    "id": 128,
+    "type": "みず",
+    "power": 35,
+    "damage_class": "物理"
+  },
+  "からみつく": {
+    "id": 132,
+    "type": "ノーマル",
+    "power": 10,
+    "damage_class": "物理"
+  },
+  "かわらわり": {
+    "id": 280,
+    "type": "かくとう",
+    "power": 75,
+    "damage_class": "物理"
+  },
+  "ガリョウテンセイ": {
+    "id": 620,
+    "type": "ひこう",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "がんせきアックス": {
+    "id": 830,
+    "type": "いわ",
+    "power": 65,
+    "damage_class": "物理"
+  },
+  "がんせきふうじ": {
+    "id": 317,
+    "type": "いわ",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "がんせきほう": {
+    "id": 439,
+    "type": "いわ",
+    "power": 150,
+    "damage_class": "物理"
+  },
+  "きあいだま": {
+    "id": 411,
+    "type": "かくとう",
+    "power": 120,
+    "damage_class": "特殊"
+  },
+  "きあいパンチ": {
+    "id": 264,
+    "type": "かくとう",
+    "power": 150,
+    "damage_class": "物理"
+  },
+  "きつけ": {
+    "id": 265,
+    "type": "ノーマル",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "きゅうけつ": {
+    "id": 141,
+    "type": "むし",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "きょけんとつげき": {
+    "id": 862,
+    "type": "ドラゴン",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "きょじゅうざん": {
+    "id": 781,
+    "type": "はがね",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "きょじゅうだん": {
+    "id": 782,
+    "type": "はがね",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "きらきらストーム": {
+    "id": 740,
+    "type": "フェアリー",
+    "power": 120,
+    "damage_class": "特殊"
+  },
+  "キラースピン": {
+    "id": 866,
+    "type": "どく",
+    "power": 30,
+    "damage_class": "物理"
+  },
+  "きりさく": {
+    "id": 163,
+    "type": "ノーマル",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "ギアソーサー": {
+    "id": 544,
+    "type": "はがね",
+    "power": 50,
+    "damage_class": "物理"
+  },
+  "ギガインパクト": {
+    "id": 416,
+    "type": "ノーマル",
+    "power": 150,
+    "damage_class": "物理"
+  },
+  "ギガドレイン": {
+    "id": 202,
+    "type": "くさ",
+    "power": 75,
+    "damage_class": "特殊"
+  },
+  "ぎんいろのかぜ": {
+    "id": 318,
+    "type": "むし",
+    "power": 60,
+    "damage_class": "特殊"
+  },
+  "クイックターン": {
+    "id": 812,
+    "type": "みず",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "くさのちかい": {
+    "id": 520,
+    "type": "くさ",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "くさわけ": {
+    "id": 885,
+    "type": "くさ",
+    "power": 50,
+    "damage_class": "物理"
+  },
+  "くちばしキャノン": {
+    "id": 690,
+    "type": "ひこう",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "くらいつく": {
+    "id": 746,
+    "type": "あく",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "クラブハンマー": {
+    "id": 152,
+    "type": "みず",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "クリアスモッグ": {
+    "id": 499,
+    "type": "どく",
+    "power": 50,
+    "damage_class": "特殊"
+  },
+  "クロスサンダー": {
+    "id": 559,
+    "type": "でんき",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "クロスチョップ": {
+    "id": 238,
+    "type": "かくとう",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "クロスフレイム": {
+    "id": 558,
+    "type": "ほのお",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "クロスポイズン": {
+    "id": 440,
+    "type": "どく",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "クロロブラスト": {
+    "id": 835,
+    "type": "くさ",
+    "power": 150,
+    "damage_class": "特殊"
+  },
+  "グラススライダー": {
+    "id": 803,
+    "type": "くさ",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "グラスミキサー": {
+    "id": 536,
+    "type": "くさ",
+    "power": 65,
+    "damage_class": "特殊"
+  },
+  "グランドフォース": {
+    "id": 616,
+    "type": "じめん",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "グロウパンチ": {
+    "id": 612,
+    "type": "かくとう",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "げきりん": {
+    "id": 200,
+    "type": "ドラゴン",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "ゲップ": {
+    "id": 562,
+    "type": "どく",
+    "power": 120,
+    "damage_class": "特殊"
+  },
+  "げんしのちから": {
+    "id": 246,
+    "type": "いわ",
+    "power": 60,
+    "damage_class": "特殊"
+  },
+  "コアパニッシャー": {
+    "id": 687,
+    "type": "ドラゴン",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "こうげきしれい": {
+    "id": 454,
+    "type": "むし",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "こうそくスピン": {
+    "id": 229,
+    "type": "ノーマル",
+    "power": 50,
+    "damage_class": "物理"
+  },
+  "こおりのいぶき": {
+    "id": 524,
+    "type": "こおり",
+    "power": 60,
+    "damage_class": "特殊"
+  },
+  "こおりのキバ": {
+    "id": 423,
+    "type": "こおり",
+    "power": 65,
+    "damage_class": "物理"
+  },
+  "こおりのつぶて": {
+    "id": 420,
+    "type": "こおり",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "こがらしあらし": {
+    "id": 846,
+    "type": "ひこう",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "こごえるかぜ": {
+    "id": 196,
+    "type": "こおり",
+    "power": 55,
+    "damage_class": "特殊"
+  },
+  "こごえるせかい": {
+    "id": 549,
+    "type": "こおり",
+    "power": 65,
+    "damage_class": "特殊"
+  },
+  "こちこちフロスト": {
+    "id": 739,
+    "type": "こおり",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "こなゆき": {
+    "id": 181,
+    "type": "こおり",
+    "power": 40,
+    "damage_class": "特殊"
+  },
+  "このは": {
+    "id": 670,
+    "type": "くさ",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "コメットパンチ": {
+    "id": 309,
+    "type": "はがね",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "ころがる": {
+    "id": 205,
+    "type": "いわ",
+    "power": 30,
+    "damage_class": "物理"
+  },
+  "こんげんのはどう": {
+    "id": 618,
+    "type": "みず",
+    "power": 110,
+    "damage_class": "特殊"
+  },
+  "コールドフレア": {
+    "id": 554,
+    "type": "こおり",
+    "power": 140,
+    "damage_class": "特殊"
+  },
+  "ゴッドバード": {
+    "id": 143,
+    "type": "ひこう",
+    "power": 140,
+    "damage_class": "物理"
+  },
+  "ゴーストダイブ": {
+    "id": 566,
+    "type": "ゴースト",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "ゴールドラッシュ": {
+    "id": 874,
+    "type": "はがね",
+    "power": 120,
+    "damage_class": "特殊"
+  },
+  "サイケこうせん": {
+    "id": 60,
+    "type": "エスパー",
+    "power": 65,
+    "damage_class": "特殊"
+  },
+  "サイコカッター": {
+    "id": 427,
+    "type": "エスパー",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "サイコキネシス": {
+    "id": 94,
+    "type": "エスパー",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "サイコショック": {
+    "id": 473,
+    "type": "エスパー",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "サイコファング": {
+    "id": 706,
+    "type": "エスパー",
+    "power": 85,
+    "damage_class": "物理"
+  },
+  "サイコブレイク": {
+    "id": 540,
+    "type": "エスパー",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "サイコブースト": {
+    "id": 354,
+    "type": "エスパー",
+    "power": 140,
+    "damage_class": "特殊"
+  },
+  "サウザンアロー": {
+    "id": 614,
+    "type": "じめん",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "サウザンウェーブ": {
+    "id": 615,
+    "type": "じめん",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "さばきのつぶて": {
+    "id": 449,
+    "type": "ノーマル",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "さわぐ": {
+    "id": 253,
+    "type": "ノーマル",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "サンシャインスマッシャー": {
+    "id": 724,
+    "type": "はがね",
+    "power": 200,
+    "damage_class": "物理"
+  },
+  "サンダープリズン": {
+    "id": 819,
+    "type": "でんき",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "ざぶざぶサーフ": {
+    "id": 730,
+    "type": "みず",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "シェルアームズ": {
+    "id": 801,
+    "type": "どく",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "シェルブレード": {
+    "id": 534,
+    "type": "みず",
+    "power": 75,
+    "damage_class": "物理"
+  },
+  "しおづけ": {
+    "id": 864,
+    "type": "いわ",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "しおふき": {
+    "id": 323,
+    "type": "みず",
+    "power": 150,
+    "damage_class": "特殊"
+  },
+  "しおみず": {
+    "id": 362,
+    "type": "みず",
+    "power": 65,
+    "damage_class": "特殊"
+  },
+  "シグナルビーム": {
+    "id": 324,
+    "type": "むし",
+    "power": 75,
+    "damage_class": "特殊"
+  },
+  "シザークロス": {
+    "id": 404,
+    "type": "むし",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "したでなめる": {
+    "id": 122,
+    "type": "ゴースト",
+    "power": 30,
+    "damage_class": "物理"
+  },
+  "しちせいだっこんたい": {
+    "id": 699,
+    "type": "ゴースト",
+    "power": 195,
+    "damage_class": "物理"
+  },
+  "しっとのほのお": {
+    "id": 807,
+    "type": "ほのお",
+    "power": 70,
+    "damage_class": "特殊"
+  },
+  "しっぺがえし": {
+    "id": 371,
+    "type": "あく",
+    "power": 50,
+    "damage_class": "物理"
+  },
+  "しねんのずつき": {
+    "id": 428,
+    "type": "エスパー",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "しめつける": {
+    "id": 20,
+    "type": "ノーマル",
+    "power": 15,
+    "damage_class": "物理"
+  },
+  "シャドーアローズストライク": {
+    "id": 695,
+    "type": "ゴースト",
+    "power": 180,
+    "damage_class": "物理"
+  },
+  "シャドークロー": {
+    "id": 421,
+    "type": "ゴースト",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "シャドースチール": {
+    "id": 712,
+    "type": "ゴースト",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "シャドーダイブ": {
+    "id": 467,
+    "type": "ゴースト",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "シャドーパンチ": {
+    "id": 325,
+    "type": "ゴースト",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "シャドーボール": {
+    "id": 247,
+    "type": "ゴースト",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "シャドーボーン": {
+    "id": 708,
+    "type": "ゴースト",
+    "power": 85,
+    "damage_class": "物理"
+  },
+  "シャドーレイ": {
+    "id": 714,
+    "type": "ゴースト",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "しんくうは": {
+    "id": 410,
+    "type": "かくとう",
+    "power": 40,
+    "damage_class": "特殊"
+  },
+  "シンクロノイズ": {
+    "id": 485,
+    "type": "エスパー",
+    "power": 120,
+    "damage_class": "特殊"
+  },
+  "しんそく": {
+    "id": 245,
+    "type": "ノーマル",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "しんぴのちから": {
+    "id": 832,
+    "type": "エスパー",
+    "power": 70,
+    "damage_class": "特殊"
+  },
+  "しんぴのつるぎ": {
+    "id": 548,
+    "type": "かくとう",
+    "power": 85,
+    "damage_class": "特殊"
+  },
+  "シードフレア": {
+    "id": 465,
+    "type": "くさ",
+    "power": 120,
+    "damage_class": "特殊"
+  },
+  "ジェットパンチ": {
+    "id": 857,
+    "type": "みず",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "じごくぐるま": {
+    "id": 66,
+    "type": "かくとう",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "じごくづき": {
+    "id": 675,
+    "type": "あく",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "じしん": {
+    "id": 89,
+    "type": "じめん",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "じだんだ": {
+    "id": 707,
+    "type": "じめん",
+    "power": 75,
+    "damage_class": "物理"
+  },
+  "じならし": {
+    "id": 523,
+    "type": "じめん",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "じばく": {
+    "id": 120,
+    "type": "ノーマル",
+    "power": 200,
+    "damage_class": "物理"
+  },
+  "じゃれつく": {
+    "id": 583,
+    "type": "フェアリー",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "じんつうりき": {
+    "id": 326,
+    "type": "エスパー",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "すいとる": {
+    "id": 71,
+    "type": "くさ",
+    "power": 20,
+    "damage_class": "特殊"
+  },
+  "すいりゅうれんだ": {
+    "id": 818,
+    "type": "みず",
+    "power": 25,
+    "damage_class": "物理"
+  },
+  "スイープビンタ": {
+    "id": 541,
+    "type": "ノーマル",
+    "power": 25,
+    "damage_class": "物理"
+  },
+  "スカイアッパー": {
+    "id": 327,
+    "type": "かくとう",
+    "power": 85,
+    "damage_class": "物理"
+  },
+  "すくすくボンバー": {
+    "id": 738,
+    "type": "くさ",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "スケイルショット": {
+    "id": 799,
+    "type": "ドラゴン",
+    "power": 25,
+    "damage_class": "物理"
+  },
+  "スケイルノイズ": {
+    "id": 691,
+    "type": "ドラゴン",
+    "power": 110,
+    "damage_class": "特殊"
+  },
+  "スターアサルト": {
+    "id": 794,
+    "type": "かくとう",
+    "power": 150,
+    "damage_class": "物理"
+  },
+  "スチームバースト": {
+    "id": 592,
+    "type": "みず",
+    "power": 110,
+    "damage_class": "特殊"
+  },
+  "すてみタックル": {
+    "id": 38,
+    "type": "ノーマル",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "ストーンエッジ": {
+    "id": 444,
+    "type": "いわ",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "すなじごく": {
+    "id": 328,
+    "type": "じめん",
+    "power": 35,
+    "damage_class": "物理"
+  },
+  "スパーク": {
+    "id": 209,
+    "type": "でんき",
+    "power": 65,
+    "damage_class": "物理"
+  },
+  "スピードスター": {
+    "id": 129,
+    "type": "ノーマル",
+    "power": 60,
+    "damage_class": "特殊"
+  },
+  "スマートホーン": {
+    "id": 684,
+    "type": "はがね",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "スモッグ": {
+    "id": 123,
+    "type": "どく",
+    "power": 30,
+    "damage_class": "特殊"
+  },
+  "ずつき": {
+    "id": 29,
+    "type": "ノーマル",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "せいなるつるぎ": {
+    "id": 533,
+    "type": "かくとう",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "せいなるほのお": {
+    "id": 221,
+    "type": "ほのお",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "ソウルクラッシュ": {
+    "id": 789,
+    "type": "フェアリー",
+    "power": 75,
+    "damage_class": "物理"
+  },
+  "そらをとぶ": {
+    "id": 19,
+    "type": "ひこう",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "ソーラービーム": {
+    "id": 76,
+    "type": "くさ",
+    "power": 120,
+    "damage_class": "特殊"
+  },
+  "ソーラーブレード": {
+    "id": 669,
+    "type": "くさ",
+    "power": 125,
+    "damage_class": "物理"
+  },
+  "たいあたり": {
+    "id": 33,
+    "type": "ノーマル",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "たきのぼり": {
+    "id": 127,
+    "type": "みず",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "たたきつける": {
+    "id": 21,
+    "type": "ノーマル",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "たたりめ": {
+    "id": 506,
+    "type": "ゴースト",
+    "power": 65,
+    "damage_class": "特殊"
+  },
+  "たつまき": {
+    "id": 239,
+    "type": "ドラゴン",
+    "power": 40,
+    "damage_class": "特殊"
+  },
+  "タネばくだん": {
+    "id": 402,
+    "type": "くさ",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "タネマシンガン": {
+    "id": 331,
+    "type": "くさ",
+    "power": 25,
+    "damage_class": "物理"
+  },
+  "タマゴばくだん": {
+    "id": 121,
+    "type": "ノーマル",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "たまなげ": {
+    "id": 140,
+    "type": "ノーマル",
+    "power": 15,
+    "damage_class": "物理"
+  },
+  "ダイアイス": {
+    "id": 763,
+    "type": "こおり",
+    "power": 10,
+    "damage_class": "物理"
+  },
+  "ダイアシッド": {
+    "id": 764,
+    "type": "どく",
+    "power": 10,
+    "damage_class": "物理"
+  },
+  "ダイアタック": {
+    "id": 760,
+    "type": "ノーマル",
+    "power": 10,
+    "damage_class": "物理"
+  },
+  "ダイアーク": {
+    "id": 772,
+    "type": "あく",
+    "power": 10,
+    "damage_class": "物理"
+  },
+  "ダイアース": {
+    "id": 771,
+    "type": "じめん",
+    "power": 10,
+    "damage_class": "物理"
+  },
+  "ダイサイコ": {
+    "id": 769,
+    "type": "エスパー",
+    "power": 10,
+    "damage_class": "物理"
+  },
+  "ダイサンダー": {
+    "id": 759,
+    "type": "でんき",
+    "power": 10,
+    "damage_class": "物理"
+  },
+  "ダイジェット": {
+    "id": 766,
+    "type": "ひこう",
+    "power": 10,
+    "damage_class": "物理"
+  },
+  "ダイスチル": {
+    "id": 774,
+    "type": "はがね",
+    "power": 10,
+    "damage_class": "物理"
+  },
+  "ダイストリーム": {
+    "id": 765,
+    "type": "みず",
+    "power": 10,
+    "damage_class": "物理"
+  },
+  "ダイソウゲン": {
+    "id": 773,
+    "type": "くさ",
+    "power": 10,
+    "damage_class": "物理"
+  },
+  "だいちのちから": {
+    "id": 414,
+    "type": "じめん",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "だいちのはどう": {
+    "id": 805,
+    "type": "ノーマル",
+    "power": 50,
+    "damage_class": "特殊"
+  },
+  "ダイドラグーン": {
+    "id": 768,
+    "type": "ドラゴン",
+    "power": 10,
+    "damage_class": "物理"
+  },
+  "ダイナックル": {
+    "id": 761,
+    "type": "かくとう",
+    "power": 10,
+    "damage_class": "物理"
+  },
+  "だいばくはつ": {
+    "id": 153,
+    "type": "ノーマル",
+    "power": 250,
+    "damage_class": "物理"
+  },
+  "ダイバーン": {
+    "id": 757,
+    "type": "ほのお",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "ダイビング": {
+    "id": 291,
+    "type": "みず",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "ダイフェアリー": {
+    "id": 767,
+    "type": "フェアリー",
+    "power": 10,
+    "damage_class": "物理"
+  },
+  "だいふんげき": {
+    "id": 833,
+    "type": "ほのお",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "ダイホロウ": {
+    "id": 762,
+    "type": "ゴースト",
+    "power": 10,
+    "damage_class": "物理"
+  },
+  "ダイマックスほう": {
+    "id": 744,
+    "type": "ドラゴン",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "だいもんじ": {
+    "id": 126,
+    "type": "ほのお",
+    "power": 110,
+    "damage_class": "特殊"
+  },
+  "ダイヤストーム": {
+    "id": 591,
+    "type": "いわ",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "ダイロック": {
+    "id": 770,
+    "type": "いわ",
+    "power": 10,
+    "damage_class": "物理"
+  },
+  "ダイワーム": {
+    "id": 758,
+    "type": "むし",
+    "power": 10,
+    "damage_class": "物理"
+  },
+  "だくりゅう": {
+    "id": 330,
+    "type": "みず",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "ダストシュート": {
+    "id": 441,
+    "type": "どく",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "ダブルアタック": {
+    "id": 458,
+    "type": "ノーマル",
+    "power": 35,
+    "damage_class": "物理"
+  },
+  "ダブルウイング": {
+    "id": 814,
+    "type": "ひこう",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "ダブルチョップ": {
+    "id": 530,
+    "type": "ドラゴン",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "ダブルニードル": {
+    "id": 41,
+    "type": "むし",
+    "power": 25,
+    "damage_class": "物理"
+  },
+  "ダブルパンツァー": {
+    "id": 742,
+    "type": "はがね",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "だましうち": {
+    "id": 185,
+    "type": "あく",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "ダメおし": {
+    "id": 372,
+    "type": "あく",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "だんがいのつるぎ": {
+    "id": 619,
+    "type": "じめん",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "ダークアクセル": {
+    "id": 897,
+    "type": "あく",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "チャージビーム": {
+    "id": 451,
+    "type": "でんき",
+    "power": 50,
+    "damage_class": "特殊"
+  },
+  "チャームボイス": {
+    "id": 574,
+    "type": "フェアリー",
+    "power": 40,
+    "damage_class": "特殊"
+  },
+  "ついばむ": {
+    "id": 365,
+    "type": "ひこう",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "ツインビーム": {
+    "id": 888,
+    "type": "エスパー",
+    "power": 40,
+    "damage_class": "特殊"
+  },
+  "つけあがる": {
+    "id": 681,
+    "type": "あく",
+    "power": 20,
+    "damage_class": "物理"
+  },
+  "つじぎり": {
+    "id": 400,
+    "type": "あく",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "つっぱり": {
+    "id": 292,
+    "type": "かくとう",
+    "power": 15,
+    "damage_class": "物理"
+  },
+  "つつく": {
+    "id": 64,
+    "type": "ひこう",
+    "power": 35,
+    "damage_class": "物理"
+  },
+  "つのでつく": {
+    "id": 30,
+    "type": "ノーマル",
+    "power": 65,
+    "damage_class": "物理"
+  },
+  "つばさでうつ": {
+    "id": 17,
+    "type": "ひこう",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "つばめがえし": {
+    "id": 332,
+    "type": "ひこう",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "つららおとし": {
+    "id": 556,
+    "type": "こおり",
+    "power": 85,
+    "damage_class": "物理"
+  },
+  "つららばり": {
+    "id": 333,
+    "type": "こおり",
+    "power": 25,
+    "damage_class": "物理"
+  },
+  "つるのムチ": {
+    "id": 22,
+    "type": "くさ",
+    "power": 45,
+    "damage_class": "物理"
+  },
+  "てかげん": {
+    "id": 610,
+    "type": "ノーマル",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "テクノバスター": {
+    "id": 546,
+    "type": "ノーマル",
+    "power": 120,
+    "damage_class": "特殊"
+  },
+  "てっていこうせん": {
+    "id": 796,
+    "type": "はがね",
+    "power": 140,
+    "damage_class": "特殊"
+  },
+  "テラバースト": {
+    "id": 851,
+    "type": "ノーマル",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "てんこうそうげき": {
+    "id": 892,
+    "type": "でんき",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "てんこがすめつぼうのひかり": {
+    "id": 723,
+    "type": "エスパー",
+    "power": 200,
+    "damage_class": "特殊"
+  },
+  "であいがしら": {
+    "id": 660,
+    "type": "むし",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "デカハンマー": {
+    "id": 893,
+    "type": "はがね",
+    "power": 160,
+    "damage_class": "物理"
+  },
+  "デスウイング": {
+    "id": 613,
+    "type": "ひこう",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "でんきショック": {
+    "id": 84,
+    "type": "でんき",
+    "power": 40,
+    "damage_class": "特殊"
+  },
+  "でんげきくちばし": {
+    "id": 754,
+    "type": "でんき",
+    "power": 85,
+    "damage_class": "物理"
+  },
+  "でんげきは": {
+    "id": 351,
+    "type": "でんき",
+    "power": 60,
+    "damage_class": "特殊"
+  },
+  "でんこうせっか": {
+    "id": 98,
+    "type": "ノーマル",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "でんじほう": {
+    "id": 192,
+    "type": "でんき",
+    "power": 120,
+    "damage_class": "特殊"
+  },
+  "ときのほうこう": {
+    "id": 459,
+    "type": "ドラゴン",
+    "power": 150,
+    "damage_class": "特殊"
+  },
+  "とげキャノン": {
+    "id": 131,
+    "type": "ノーマル",
+    "power": 20,
+    "damage_class": "物理"
+  },
+  "とっしん": {
+    "id": 36,
+    "type": "ノーマル",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "とっておき": {
+    "id": 387,
+    "type": "ノーマル",
+    "power": 140,
+    "damage_class": "物理"
+  },
+  "とどめばり": {
+    "id": 565,
+    "type": "むし",
+    "power": 50,
+    "damage_class": "物理"
+  },
+  "とびかかる": {
+    "id": 679,
+    "type": "むし",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "とびげり": {
+    "id": 26,
+    "type": "かくとう",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "とびつく": {
+    "id": 884,
+    "type": "むし",
+    "power": 50,
+    "damage_class": "物理"
+  },
+  "とびはねる": {
+    "id": 340,
+    "type": "ひこう",
+    "power": 85,
+    "damage_class": "物理"
+  },
+  "とびひざげり": {
+    "id": 136,
+    "type": "かくとう",
+    "power": 130,
+    "damage_class": "物理"
+  },
+  "ともえなげ": {
+    "id": 509,
+    "type": "かくとう",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "トライアタック": {
+    "id": 161,
+    "type": "ノーマル",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "トラップシェル": {
+    "id": 704,
+    "type": "ほのお",
+    "power": 150,
+    "damage_class": "特殊"
+  },
+  "トラバサミ": {
+    "id": 779,
+    "type": "くさ",
+    "power": 35,
+    "damage_class": "物理"
+  },
+  "トリックフラワー": {
+    "id": 870,
+    "type": "くさ",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "トリプルアクセル": {
+    "id": 813,
+    "type": "こおり",
+    "power": 20,
+    "damage_class": "物理"
+  },
+  "トリプルキック": {
+    "id": 167,
+    "type": "かくとう",
+    "power": 10,
+    "damage_class": "物理"
+  },
+  "トリプルダイブ": {
+    "id": 865,
+    "type": "みず",
+    "power": 30,
+    "damage_class": "物理"
+  },
+  "トロピカルキック": {
+    "id": 688,
+    "type": "くさ",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "とんぼがえり": {
+    "id": 369,
+    "type": "むし",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "どくづき": {
+    "id": 398,
+    "type": "どく",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "どくどくのキバ": {
+    "id": 305,
+    "type": "どく",
+    "power": 50,
+    "damage_class": "物理"
+  },
+  "どくばり": {
+    "id": 40,
+    "type": "どく",
+    "power": 15,
+    "damage_class": "物理"
+  },
+  "どくばりセンボン": {
+    "id": 839,
+    "type": "どく",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "どげざつき": {
+    "id": 793,
+    "type": "あく",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "ドゲザン": {
+    "id": 869,
+    "type": "あく",
+    "power": 85,
+    "damage_class": "物理"
+  },
+  "どばどばオーラ": {
+    "id": 736,
+    "type": "エスパー",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "ドラゴンアロー": {
+    "id": 751,
+    "type": "ドラゴン",
+    "power": 50,
+    "damage_class": "物理"
+  },
+  "ドラゴンエナジー": {
+    "id": 820,
+    "type": "ドラゴン",
+    "power": 150,
+    "damage_class": "特殊"
+  },
+  "ドラゴンクロー": {
+    "id": 337,
+    "type": "ドラゴン",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "ドラゴンダイブ": {
+    "id": 407,
+    "type": "ドラゴン",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "ドラゴンテール": {
+    "id": 525,
+    "type": "ドラゴン",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "ドラゴンハンマー": {
+    "id": 692,
+    "type": "ドラゴン",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "ドラムアタック": {
+    "id": 778,
+    "type": "くさ",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "ドリルくちばし": {
+    "id": 65,
+    "type": "ひこう",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "ドリルライナー": {
+    "id": 529,
+    "type": "じめん",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "ドレインキッス": {
+    "id": 577,
+    "type": "フェアリー",
+    "power": 50,
+    "damage_class": "特殊"
+  },
+  "ドレインパンチ": {
+    "id": 409,
+    "type": "かくとう",
+    "power": 75,
+    "damage_class": "物理"
+  },
+  "どろかけ": {
+    "id": 189,
+    "type": "じめん",
+    "power": 20,
+    "damage_class": "特殊"
+  },
+  "どろばくだん": {
+    "id": 426,
+    "type": "じめん",
+    "power": 65,
+    "damage_class": "特殊"
+  },
+  "どろぼう": {
+    "id": 168,
+    "type": "あく",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "ナイトバースト": {
+    "id": 539,
+    "type": "あく",
+    "power": 85,
+    "damage_class": "特殊"
+  },
+  "なしくずし": {
+    "id": 498,
+    "type": "ノーマル",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "なみのり": {
+    "id": 57,
+    "type": "みず",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "ニトロチャージ": {
+    "id": 488,
+    "type": "ほのお",
+    "power": 50,
+    "damage_class": "物理"
+  },
+  "にどげり": {
+    "id": 24,
+    "type": "かくとう",
+    "power": 30,
+    "damage_class": "物理"
+  },
+  "ニードルアーム": {
+    "id": 302,
+    "type": "くさ",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "ねこだまし": {
+    "id": 252,
+    "type": "ノーマル",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "ネコにこばん": {
+    "id": 6,
+    "type": "ノーマル",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "ネズミざん": {
+    "id": 860,
+    "type": "ノーマル",
+    "power": 20,
+    "damage_class": "物理"
+  },
+  "ねっさのあらし": {
+    "id": 848,
+    "type": "じめん",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "ねっさのだいち": {
+    "id": 815,
+    "type": "じめん",
+    "power": 70,
+    "damage_class": "特殊"
+  },
+  "ねっとう": {
+    "id": 503,
+    "type": "みず",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "ねっぷう": {
+    "id": 257,
+    "type": "ほのお",
+    "power": 95,
+    "damage_class": "特殊"
+  },
+  "ねらいうち": {
+    "id": 745,
+    "type": "みず",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "ねんりき": {
+    "id": 93,
+    "type": "エスパー",
+    "power": 50,
+    "damage_class": "特殊"
+  },
+  "のしかかり": {
+    "id": 34,
+    "type": "ノーマル",
+    "power": 85,
+    "damage_class": "物理"
+  },
+  "ハイドロカノン": {
+    "id": 308,
+    "type": "みず",
+    "power": 150,
+    "damage_class": "特殊"
+  },
+  "ハイドロポンプ": {
+    "id": 56,
+    "type": "みず",
+    "power": 110,
+    "damage_class": "特殊"
+  },
+  "ハイパーダーククラッシャー": {
+    "id": 696,
+    "type": "あく",
+    "power": 180,
+    "damage_class": "物理"
+  },
+  "ハイパードリル": {
+    "id": 887,
+    "type": "ノーマル",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "ハイパーボイス": {
+    "id": 304,
+    "type": "ノーマル",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "はいよるいちげき": {
+    "id": 806,
+    "type": "むし",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "はかいこうせん": {
+    "id": 63,
+    "type": "ノーマル",
+    "power": 150,
+    "damage_class": "特殊"
+  },
+  "はがねのつばさ": {
+    "id": 211,
+    "type": "はがね",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "はさむ": {
+    "id": 11,
+    "type": "ノーマル",
+    "power": 55,
+    "damage_class": "物理"
+  },
+  "はじけるほのお": {
+    "id": 481,
+    "type": "ほのお",
+    "power": 70,
+    "damage_class": "特殊"
+  },
+  "はたきおとす": {
+    "id": 282,
+    "type": "あく",
+    "power": 65,
+    "damage_class": "物理"
+  },
+  "はたく": {
+    "id": 876,
+    "type": "ノーマル",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "はっけい": {
+    "id": 395,
+    "type": "かくとう",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "はっぱカッター": {
+    "id": 75,
+    "type": "くさ",
+    "power": 55,
+    "damage_class": "物理"
+  },
+  "はどうだん": {
+    "id": 396,
+    "type": "かくとう",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "はなびらのまい": {
+    "id": 80,
+    "type": "くさ",
+    "power": 120,
+    "damage_class": "特殊"
+  },
+  "はなふぶき": {
+    "id": 572,
+    "type": "くさ",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "はめつのねがい": {
+    "id": 353,
+    "type": "はがね",
+    "power": 140,
+    "damage_class": "特殊"
+  },
+  "はめつのひかり": {
+    "id": 617,
+    "type": "フェアリー",
+    "power": 140,
+    "damage_class": "特殊"
+  },
+  "はるのあらし": {
+    "id": 831,
+    "type": "フェアリー",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "ハートスタンプ": {
+    "id": 531,
+    "type": "エスパー",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "ハードプラント": {
+    "id": 338,
+    "type": "くさ",
+    "power": 150,
+    "damage_class": "特殊"
+  },
+  "ハードローラー": {
+    "id": 537,
+    "type": "むし",
+    "power": 65,
+    "damage_class": "物理"
+  },
+  "ばかぢから": {
+    "id": 276,
+    "type": "かくとう",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "ばくおんぱ": {
+    "id": 586,
+    "type": "ノーマル",
+    "power": 140,
+    "damage_class": "特殊"
+  },
+  "ばくれつパンチ": {
+    "id": 223,
+    "type": "かくとう",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "ばちばちアクセル": {
+    "id": 729,
+    "type": "でんき",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "バブルこうせん": {
+    "id": 61,
+    "type": "みず",
+    "power": 65,
+    "damage_class": "特殊"
+  },
+  "バリアーラッシュ": {
+    "id": 828,
+    "type": "エスパー",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "バレットパンチ": {
+    "id": 418,
+    "type": "はがね",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "バークアウト": {
+    "id": 555,
+    "type": "あく",
+    "power": 55,
+    "damage_class": "特殊"
+  },
+  "バーンアクセル": {
+    "id": 896,
+    "type": "ほのお",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "パラボラチャージ": {
+    "id": 570,
+    "type": "でんき",
+    "power": 65,
+    "damage_class": "特殊"
+  },
+  "パワーウィップ": {
+    "id": 438,
+    "type": "くさ",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "パワージェム": {
+    "id": 408,
+    "type": "いわ",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "ひけん・ちえなみ": {
+    "id": 845,
+    "type": "あく",
+    "power": 65,
+    "damage_class": "物理"
+  },
+  "ひっかく": {
+    "id": 10,
+    "type": "ノーマル",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "ひっさつのピカチュート": {
+    "id": 658,
+    "type": "でんき",
+    "power": 210,
+    "damage_class": "物理"
+  },
+  "ひっさつまえば": {
+    "id": 158,
+    "type": "ノーマル",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "ひのこ": {
+    "id": 52,
+    "type": "ほのお",
+    "power": 40,
+    "damage_class": "特殊"
+  },
+  "ひみつのちから": {
+    "id": 290,
+    "type": "ノーマル",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "ひゃっきやこう": {
+    "id": 844,
+    "type": "ゴースト",
+    "power": 60,
+    "damage_class": "特殊"
+  },
+  "ひやみず": {
+    "id": 886,
+    "type": "みず",
+    "power": 50,
+    "damage_class": "特殊"
+  },
+  "ひょうざんおろし": {
+    "id": 836,
+    "type": "こおり",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "ビックリヘッド": {
+    "id": 720,
+    "type": "ほのお",
+    "power": 150,
+    "damage_class": "特殊"
+  },
+  "びりびりエレキ": {
+    "id": 734,
+    "type": "でんき",
+    "power": 60,
+    "damage_class": "特殊"
+  },
+  "びりびりちくちく": {
+    "id": 716,
+    "type": "でんき",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "ピヨピヨパンチ": {
+    "id": 146,
+    "type": "ノーマル",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "ファイトアクセル": {
+    "id": 899,
+    "type": "かくとう",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "ふいうち": {
+    "id": 389,
+    "type": "あく",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "フェイタルクロー": {
+    "id": 827,
+    "type": "どく",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "フェイント": {
+    "id": 364,
+    "type": "ノーマル",
+    "power": 30,
+    "damage_class": "物理"
+  },
+  "フォトンゲイザー": {
+    "id": 722,
+    "type": "エスパー",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "ふぶき": {
+    "id": 59,
+    "type": "こおり",
+    "power": 110,
+    "damage_class": "特殊"
+  },
+  "ふみつけ": {
+    "id": 23,
+    "type": "ノーマル",
+    "power": 65,
+    "damage_class": "物理"
+  },
+  "フライングプレス": {
+    "id": 560,
+    "type": "かくとう",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "フリーズドライ": {
+    "id": 573,
+    "type": "こおり",
+    "power": 70,
+    "damage_class": "特殊"
+  },
+  "フリーズボルト": {
+    "id": 553,
+    "type": "こおり",
+    "power": 140,
+    "damage_class": "物理"
+  },
+  "フリーフォール": {
+    "id": 507,
+    "type": "ひこう",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "フルールカノン": {
+    "id": 705,
+    "type": "フェアリー",
+    "power": 130,
+    "damage_class": "特殊"
+  },
+  "フレアソング": {
+    "id": 871,
+    "type": "ほのお",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "フレアドライブ": {
+    "id": 394,
+    "type": "ほのお",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "ふわふわフォール": {
+    "id": 731,
+    "type": "ひこう",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "ふんえん": {
+    "id": 436,
+    "type": "ほのお",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "ふんか": {
+    "id": 284,
+    "type": "ほのお",
+    "power": 150,
+    "damage_class": "特殊"
+  },
+  "ふんどのこぶし": {
+    "id": 889,
+    "type": "ゴースト",
+    "power": 50,
+    "damage_class": "物理"
+  },
+  "ぶきみなじゅもん": {
+    "id": 826,
+    "type": "エスパー",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "ぶちかまし": {
+    "id": 838,
+    "type": "じめん",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "ブラストバーン": {
+    "id": 307,
+    "type": "ほのお",
+    "power": 150,
+    "damage_class": "特殊"
+  },
+  "ブリザードランス": {
+    "id": 824,
+    "type": "こおり",
+    "power": 130,
+    "damage_class": "物理"
+  },
+  "ブレイククロー": {
+    "id": 306,
+    "type": "ノーマル",
+    "power": 75,
+    "damage_class": "物理"
+  },
+  "ブレイジングソウルビート": {
+    "id": 728,
+    "type": "ドラゴン",
+    "power": 185,
+    "damage_class": "特殊"
+  },
+  "ブレイズキック": {
+    "id": 299,
+    "type": "ほのお",
+    "power": 85,
+    "damage_class": "物理"
+  },
+  "ブレイブバード": {
+    "id": 413,
+    "type": "ひこう",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "ぶんまわす": {
+    "id": 693,
+    "type": "あく",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "プラズマフィスト": {
+    "id": 721,
+    "type": "でんき",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "プリズムレーザー": {
+    "id": 711,
+    "type": "エスパー",
+    "power": 160,
+    "damage_class": "特殊"
+  },
+  "ヘドロウェーブ": {
+    "id": 482,
+    "type": "どく",
+    "power": 95,
+    "damage_class": "特殊"
+  },
+  "ヘドロこうげき": {
+    "id": 124,
+    "type": "どく",
+    "power": 65,
+    "damage_class": "特殊"
+  },
+  "ヘドロばくだん": {
+    "id": 188,
+    "type": "どく",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "ベノムショック": {
+    "id": 474,
+    "type": "どく",
+    "power": 65,
+    "damage_class": "特殊"
+  },
+  "ホイールスピン": {
+    "id": 859,
+    "type": "はがね",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "ほうでん": {
+    "id": 435,
+    "type": "でんき",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "ほうふく": {
+    "id": 894,
+    "type": "あく",
+    "power": 1,
+    "damage_class": "物理"
+  },
+  "ほしがる": {
+    "id": 343,
+    "type": "ノーマル",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "ほっぺすりすり": {
+    "id": 609,
+    "type": "でんき",
+    "power": 20,
+    "damage_class": "物理"
+  },
+  "ホネこんぼう": {
+    "id": 125,
+    "type": "じめん",
+    "power": 65,
+    "damage_class": "物理"
+  },
+  "ホネブーメラン": {
+    "id": 155,
+    "type": "じめん",
+    "power": 50,
+    "damage_class": "物理"
+  },
+  "ほのおのうず": {
+    "id": 83,
+    "type": "ほのお",
+    "power": 35,
+    "damage_class": "特殊"
+  },
+  "ほのおのキバ": {
+    "id": 424,
+    "type": "ほのお",
+    "power": 65,
+    "damage_class": "物理"
+  },
+  "ほのおのちかい": {
+    "id": 519,
+    "type": "ほのお",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "ほのおのパンチ": {
+    "id": 7,
+    "type": "ほのお",
+    "power": 75,
+    "damage_class": "物理"
+  },
+  "ほのおのまい": {
+    "id": 552,
+    "type": "ほのお",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "ほのおのムチ": {
+    "id": 680,
+    "type": "ほのお",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "ほんきをだす　こうげき": {
+    "id": 701,
+    "type": "ノーマル",
+    "power": 210,
+    "damage_class": "物理"
+  },
+  "ぼうふう": {
+    "id": 542,
+    "type": "ひこう",
+    "power": 110,
+    "damage_class": "特殊"
+  },
+  "ボディプレス": {
+    "id": 776,
+    "type": "かくとう",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "ボルテッカー": {
+    "id": 344,
+    "type": "でんき",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "ボルトチェンジ": {
+    "id": 521,
+    "type": "でんき",
+    "power": 70,
+    "damage_class": "特殊"
+  },
+  "ボーンラッシュ": {
+    "id": 198,
+    "type": "じめん",
+    "power": 25,
+    "damage_class": "物理"
+  },
+  "ポイズンアクセル": {
+    "id": 898,
+    "type": "どく",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "ポイズンテール": {
+    "id": 342,
+    "type": "どく",
+    "power": 50,
+    "damage_class": "物理"
+  },
+  "ぽかぼかフレンドタイム": {
+    "id": 726,
+    "type": "フェアリー",
+    "power": 190,
+    "damage_class": "物理"
+  },
+  "ポルターガイスト": {
+    "id": 809,
+    "type": "ゴースト",
+    "power": 110,
+    "damage_class": "物理"
+  },
+  "まきつく": {
+    "id": 35,
+    "type": "ノーマル",
+    "power": 15,
+    "damage_class": "物理"
+  },
+  "マグネットボム": {
+    "id": 443,
+    "type": "はがね",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "マグマストーム": {
+    "id": 463,
+    "type": "ほのお",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "マジカルアクセル": {
+    "id": 900,
+    "type": "フェアリー",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "マジカルシャイン": {
+    "id": 605,
+    "type": "フェアリー",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "マジカルフレイム": {
+    "id": 595,
+    "type": "ほのお",
+    "power": 75,
+    "damage_class": "特殊"
+  },
+  "マジカルリーフ": {
+    "id": 345,
+    "type": "くさ",
+    "power": 60,
+    "damage_class": "特殊"
+  },
+  "マッドショット": {
+    "id": 341,
+    "type": "じめん",
+    "power": 55,
+    "damage_class": "特殊"
+  },
+  "マッハパンチ": {
+    "id": 183,
+    "type": "かくとう",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "まとわりつく": {
+    "id": 611,
+    "type": "むし",
+    "power": 20,
+    "damage_class": "特殊"
+  },
+  "マルチアタック": {
+    "id": 718,
+    "type": "ノーマル",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "まわしげり": {
+    "id": 27,
+    "type": "かくとう",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "ミサイルばり": {
+    "id": 42,
+    "type": "むし",
+    "power": 25,
+    "damage_class": "物理"
+  },
+  "ミストバースト": {
+    "id": 802,
+    "type": "フェアリー",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "ミストボール": {
+    "id": 296,
+    "type": "エスパー",
+    "power": 70,
+    "damage_class": "特殊"
+  },
+  "みずしゅりけん": {
+    "id": 594,
+    "type": "みず",
+    "power": 15,
+    "damage_class": "特殊"
+  },
+  "みずでっぽう": {
+    "id": 55,
+    "type": "みず",
+    "power": 40,
+    "damage_class": "特殊"
+  },
+  "みずのちかい": {
+    "id": 518,
+    "type": "みず",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "みずのはどう": {
+    "id": 352,
+    "type": "みず",
+    "power": 60,
+    "damage_class": "特殊"
+  },
+  "みだれづき": {
+    "id": 31,
+    "type": "ノーマル",
+    "power": 15,
+    "damage_class": "物理"
+  },
+  "みだれひっかき": {
+    "id": 154,
+    "type": "ノーマル",
+    "power": 18,
+    "damage_class": "物理"
+  },
+  "みねうち": {
+    "id": 206,
+    "type": "ノーマル",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "みらいよち": {
+    "id": 248,
+    "type": "エスパー",
+    "power": 120,
+    "damage_class": "特殊"
+  },
+  "ミラーショット": {
+    "id": 429,
+    "type": "はがね",
+    "power": 65,
+    "damage_class": "特殊"
+  },
+  "ムゲンダイビーム": {
+    "id": 795,
+    "type": "ドラゴン",
+    "power": 160,
+    "damage_class": "特殊"
+  },
+  "むしくい": {
+    "id": 450,
+    "type": "むし",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "むしのさざめき": {
+    "id": 405,
+    "type": "むし",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "むしのていこう": {
+    "id": 522,
+    "type": "むし",
+    "power": 50,
+    "damage_class": "特殊"
+  },
+  "むねんのつるぎ": {
+    "id": 891,
+    "type": "ほのお",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "ムーンフォース": {
+    "id": 585,
+    "type": "フェアリー",
+    "power": 95,
+    "damage_class": "特殊"
+  },
+  "ムーンライトブラスター": {
+    "id": 725,
+    "type": "ゴースト",
+    "power": 200,
+    "damage_class": "特殊"
+  },
+  "メガトンキック": {
+    "id": 25,
+    "type": "ノーマル",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "メガトンパンチ": {
+    "id": 5,
+    "type": "ノーマル",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "メガドレイン": {
+    "id": 72,
+    "type": "くさ",
+    "power": 40,
+    "damage_class": "特殊"
+  },
+  "メガホーン": {
+    "id": 224,
+    "type": "むし",
+    "power": 120,
+    "damage_class": "物理"
+  },
+  "めざましビンタ": {
+    "id": 358,
+    "type": "かくとう",
+    "power": 70,
+    "damage_class": "物理"
+  },
+  "めざめるダンス": {
+    "id": 686,
+    "type": "ノーマル",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "めざめるパワー": {
+    "id": 237,
+    "type": "ノーマル",
+    "power": 60,
+    "damage_class": "特殊"
+  },
+  "メタルクロー": {
+    "id": 232,
+    "type": "はがね",
+    "power": 50,
+    "damage_class": "物理"
+  },
+  "メテオドライブ": {
+    "id": 713,
+    "type": "はがね",
+    "power": 100,
+    "damage_class": "物理"
+  },
+  "メテオビーム": {
+    "id": 800,
+    "type": "いわ",
+    "power": 120,
+    "damage_class": "特殊"
+  },
+  "めらめらバーン": {
+    "id": 735,
+    "type": "ほのお",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "もえあがるいかり": {
+    "id": 822,
+    "type": "あく",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "もえつきる": {
+    "id": 682,
+    "type": "ほのお",
+    "power": 130,
+    "damage_class": "特殊"
+  },
+  "もろはのずつき": {
+    "id": 457,
+    "type": "いわ",
+    "power": 150,
+    "damage_class": "物理"
+  },
+  "やきつくす": {
+    "id": 510,
+    "type": "ほのお",
+    "power": 60,
+    "damage_class": "特殊"
+  },
+  "やまあらし": {
+    "id": 480,
+    "type": "かくとう",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "ゆきなだれ": {
+    "id": 419,
+    "type": "こおり",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "ゆめくい": {
+    "id": 138,
+    "type": "エスパー",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "ようかいえき": {
+    "id": 51,
+    "type": "どく",
+    "power": 40,
+    "damage_class": "特殊"
+  },
+  "ようせいのかぜ": {
+    "id": 584,
+    "type": "フェアリー",
+    "power": 40,
+    "damage_class": "特殊"
+  },
+  "らいげき": {
+    "id": 550,
+    "type": "でんき",
+    "power": 130,
+    "damage_class": "物理"
+  },
+  "ライジングボルト": {
+    "id": 804,
+    "type": "でんき",
+    "power": 70,
+    "damage_class": "特殊"
+  },
+  "ライトニングサーフライド": {
+    "id": 700,
+    "type": "でんき",
+    "power": 175,
+    "damage_class": "特殊"
+  },
+  "らいめいげり": {
+    "id": 823,
+    "type": "かくとう",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "ラジアルエッジストーム": {
+    "id": 727,
+    "type": "いわ",
+    "power": 190,
+    "damage_class": "物理"
+  },
+  "ラスターカノン": {
+    "id": 430,
+    "type": "はがね",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "ラスターパージ": {
+    "id": 295,
+    "type": "エスパー",
+    "power": 70,
+    "damage_class": "特殊"
+  },
+  "リベンジ": {
+    "id": 279,
+    "type": "かくとう",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "りゅうせいぐん": {
+    "id": 434,
+    "type": "ドラゴン",
+    "power": 130,
+    "damage_class": "特殊"
+  },
+  "りゅうのいぶき": {
+    "id": 225,
+    "type": "ドラゴン",
+    "power": 60,
+    "damage_class": "特殊"
+  },
+  "りゅうのはどう": {
+    "id": 406,
+    "type": "ドラゴン",
+    "power": 85,
+    "damage_class": "特殊"
+  },
+  "りんごさん": {
+    "id": 787,
+    "type": "くさ",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "りんしょう": {
+    "id": 496,
+    "type": "ノーマル",
+    "power": 60,
+    "damage_class": "特殊"
+  },
+  "リーフストーム": {
+    "id": 437,
+    "type": "くさ",
+    "power": 130,
+    "damage_class": "特殊"
+  },
+  "リーフブレード": {
+    "id": 348,
+    "type": "くさ",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "ルミナコリジョン": {
+    "id": 855,
+    "type": "エスパー",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "レイジングブル": {
+    "id": 873,
+    "type": "ノーマル",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "れいとうパンチ": {
+    "id": 8,
+    "type": "こおり",
+    "power": 75,
+    "damage_class": "物理"
+  },
+  "れいとうビーム": {
+    "id": 58,
+    "type": "こおり",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "れんごく": {
+    "id": 517,
+    "type": "ほのお",
+    "power": 100,
+    "damage_class": "特殊"
+  },
+  "れんぞくぎり": {
+    "id": 210,
+    "type": "むし",
+    "power": 40,
+    "damage_class": "物理"
+  },
+  "れんぞくパンチ": {
+    "id": 4,
+    "type": "ノーマル",
+    "power": 18,
+    "damage_class": "物理"
+  },
+  "ロケットずつき": {
+    "id": 130,
+    "type": "ノーマル",
+    "power": 130,
+    "damage_class": "物理"
+  },
+  "ロッククライム": {
+    "id": 431,
+    "type": "ノーマル",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "ロックブラスト": {
+    "id": 350,
+    "type": "いわ",
+    "power": 25,
+    "damage_class": "物理"
+  },
+  "ローキック": {
+    "id": 490,
+    "type": "かくとう",
+    "power": 65,
+    "damage_class": "物理"
+  },
+  "ワイドフォース": {
+    "id": 797,
+    "type": "エスパー",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "ワイドブレイカー": {
+    "id": 784,
+    "type": "ドラゴン",
+    "power": 60,
+    "damage_class": "物理"
+  },
+  "ワイルドボルト": {
+    "id": 528,
+    "type": "でんき",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "わだつみのシンフォニア": {
+    "id": 697,
+    "type": "みず",
+    "power": 195,
+    "damage_class": "特殊"
+  },
+  "わるあがき": {
+    "id": 165,
+    "type": "ノーマル",
+    "power": 50,
+    "damage_class": "物理"
+  },
+  "わるわるゾーン": {
+    "id": 737,
+    "type": "あく",
+    "power": 80,
+    "damage_class": "特殊"
+  },
+  "ワンダースチーム": {
+    "id": 790,
+    "type": "フェアリー",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "１０まんばりき": {
+    "id": 667,
+    "type": "じめん",
+    "power": 95,
+    "damage_class": "物理"
+  },
+  "１０まんボルト": {
+    "id": 85,
+    "type": "でんき",
+    "power": 90,
+    "damage_class": "特殊"
+  },
+  "１０００まんボルト": {
+    "id": 719,
+    "type": "でんき",
+    "power": 195,
+    "damage_class": "特殊"
+  },
+  "３ぼんのや": {
+    "id": 843,
+    "type": "かくとう",
+    "power": 90,
+    "damage_class": "物理"
+  },
+  "ＤＤラリアット": {
+    "id": 663,
+    "type": "あく",
+    "power": 85,
+    "damage_class": "物理"
+  },
+  "Ｇのちから": {
+    "id": 788,
+    "type": "くさ",
+    "power": 80,
+    "damage_class": "物理"
+  },
+  "Ｖジェネレート": {
+    "id": 557,
+    "type": "ほのお",
+    "power": 180,
+    "damage_class": "物理"
+  }
+}
